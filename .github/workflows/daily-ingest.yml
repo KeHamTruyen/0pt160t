@@ -1,0 +1,74 @@
+name: Daily OptiBot Ingest
+
+on:
+  schedule:
+    - cron: "0 7 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: read
+
+concurrency:
+  group: daily-optibot-ingest
+  cancel-in-progress: false
+
+jobs:
+  ingest:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      SUPPORT_BASE_URL: https://support.optisigns.com
+      ARTICLE_LOCALE: en-us
+      MAX_ARTICLES: "30"
+      REQUIRED_ARTICLE_IDS: "360051014713"
+      CHUNK_SIZE: "1200"
+      CHUNK_OVERLAP: "180"
+      GEMINI_MODEL: gemini-2.5-flash
+      GEMINI_FILE_SEARCH_EMBEDDING_MODEL: models/gemini-embedding-001
+      FILE_SEARCH_STORE_DISPLAY_NAME: optibot-support-docs
+      DOCS_DIR: data/docs
+      STATE_PATH: data/state/articles.json
+      UPLOAD_LOG_PATH: data/logs/last_run.json
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scraper uploader
+        run: python main.py
+
+      - name: Upload last run artifact
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: optibot-last-run
+          path: |
+            data/logs/last_run.json
+            data/state/articles.json
+          if-no-files-found: warn
+          retention-days: 30
+
+      - name: Persist docs and delta state
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -f data/docs data/state data/logs/last_run.json
+          if git diff --cached --quiet; then
+            echo "No ingestion state changes to commit."
+          else
+            git commit -m "chore: update daily ingest state"
+            git push
+          fi

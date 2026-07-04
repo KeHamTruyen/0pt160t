@@ -1,0 +1,12 @@
+.env
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+data/*
+!data/docs/
+!data/docs/*.md
+!data/state/
+!data/state/articles.json
+!data/logs/
+!data/logs/last_run.json

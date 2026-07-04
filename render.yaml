@@ -1,0 +1,28 @@
+services:
+  - type: cron
+    name: optibot-daily-ingest
+    env: docker
+    schedule: "0 7 * * *"
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    envVars:
+      - key: GEMINI_API_KEY
+        sync: false
+      - key: SUPPORT_BASE_URL
+        value: https://support.optisigns.com
+      - key: ARTICLE_LOCALE
+        value: en-us
+      - key: MAX_ARTICLES
+        value: "30"
+      - key: REQUIRED_ARTICLE_IDS
+        value: "360051014713"
+      - key: CHUNK_SIZE
+        value: "1200"
+      - key: CHUNK_OVERLAP
+        value: "180"
+      - key: GEMINI_MODEL
+        value: gemini-2.5-flash
+      - key: GEMINI_FILE_SEARCH_EMBEDDING_MODEL
+        value: models/gemini-embedding-001
+      - key: FILE_SEARCH_STORE_DISPLAY_NAME
+        value: optibot-support-docs

@@ -59,6 +59,8 @@ Sample screenshot:
 
 ![Assistant answer with citation](<Screenshot 2026-07-04 151401.png>)
 
+Demo video: [represent.mp4](represent.mp4)
+
 ## Daily Job
 
 GitHub Actions workflow: `.github/workflows/daily-ingest.yml`.

@@ -1,6 +1,6 @@
-# 0PT160T OptiBot Mini-Clone
+# 0PT160T
 
-Python ingestion job for the OptiSigns take-home test. It scrapes at least 30 public Help Center articles, converts them to Markdown, imports changed files into a Gemini File Search Store, and writes a run log.
+OptiBot mini-clone ingestion job. It scrapes OptiSigns Help Center articles, saves clean Markdown, imports changed docs into a Gemini File Search Store, and logs added/updated/skipped counts.
 
 ## Setup
 
@@ -11,47 +11,41 @@ pip install -r requirements.txt
 copy .env.sample .env
 ```
 
-Set `GEMINI_API_KEY` in `.env`.
+Set `GEMINI_API_KEY` in `.env`. Do not commit `.env`.
 
-## Run Locally
+## Run
 
 ```bash
 python main.py
+python ask.py "How do I add a YouTube video?"
 ```
 
 Docker one-shot job:
 
 ```bash
 docker build -t 0pt160t .
-docker run --rm -e GEMINI_API_KEY=YOUR_KEY 0pt160t
+docker run --rm -e API_KEY=YOUR_GEMINI_KEY 0pt160t
 ```
 
 Outputs:
 
-- Markdown articles: `data/docs/*.md`
-- Delta state: `data/state/articles.json`
-- Last run log: `data/logs/last_run.json`
-- Gemini File Search Store name: stored in `data/state/articles.json`
+- Markdown docs: `data/docs/*.md`
+- Delta state and File Search Store name: `data/state/articles.json`
+- Last run artifact: `data/logs/last_run.json`
 
-Test the assistant from the indexed docs:
+## Ingestion
 
-```bash
-python ask.py "How do I add a YouTube video?"
-```
+- Pulls 30 latest articles from `support.optisigns.com` plus required sanity-check article `360051014713`.
+- Converts article HTML to Markdown while preserving headings, code blocks, and links.
+- Detects deltas with SHA-256 content hashes.
+- Uploads only new/updated Markdown files with Gemini `upload_to_file_search_store`.
+- Gemini File Search Store handles managed RAG indexing; local chunk counts use Markdown headings plus `CHUNK_SIZE` / `CHUNK_OVERLAP`.
 
-## Gemini Knowledge Approach
+Latest local run: `added=0 updated=0 skipped=31 files_uploaded=0 chunks_indexed=0`.
 
-This project uses Gemini's managed File Search Store, the Gemini equivalent for managed RAG:
+## Assistant
 
-- changed Markdown files are uploaded with `upload_to_file_search_store`;
-- Gemini imports, chunks, embeds, and indexes the documents inside the File Search Store;
-- unchanged articles are skipped by SHA-256 hash;
-- `REQUIRED_ARTICLE_IDS` includes the YouTube article used by the sanity check;
-- local chunk counts use Markdown headings plus `CHUNK_SIZE` / `CHUNK_OVERLAP` to explain and log the ingestion size.
-
-The run log records `added`, `updated`, `skipped`, `files_uploaded`, `chunks_indexed`, and `file_search_store_name`.
-
-## Assistant Prompt
+System prompt:
 
 ```text
 You are OptiBot, the customer-support bot for OptiSigns.com.
@@ -61,27 +55,21 @@ You are OptiBot, the customer-support bot for OptiSigns.com.
 • Cite up to 3 "Article URL:" lines per reply.
 ```
 
+Sample screenshot:
+
+![Assistant answer with citation](<Screenshot 2026-07-04 151401.png>)
+
 ## Daily Job
 
-This repo includes a GitHub Actions scheduled job in `.github/workflows/daily-ingest.yml`.
+GitHub Actions workflow: `.github/workflows/daily-ingest.yml`.
 
 Setup:
 
-1. Push the repo to GitHub.
+1. Push this repo to GitHub.
 2. Add repository secret `GEMINI_API_KEY`.
-3. Open Actions > Daily OptiBot Ingest > Run workflow to test manually.
-4. The workflow also runs daily at `07:00 UTC`.
+3. Run `Actions > Daily OptiBot Ingest > Run workflow`.
+4. The schedule runs daily at `07:00 UTC`.
 
-The job re-scrapes, hashes Markdown content, imports only new/updated docs into the Gemini File Search Store, uploads `last_run.json` as an artifact, and commits `data/docs`, `data/state/articles.json`, and `data/logs/last_run.json` so the next scheduled run can detect deltas.
+Daily job logs/artifact: GitHub Actions > Daily OptiBot Ingest > latest run > artifact `optibot-last-run`.
 
-Alternative Render deployment is described by `render.yaml`; set `GEMINI_API_KEY` in Render before running the cron job.
-
-Daily job logs: GitHub Actions > Daily OptiBot Ingest > latest run artifact `optibot-last-run`.
-
-Last local run artifact: `data/logs/last_run.json`
-
-## Screenshot
-
-Add the AI Studio screenshot for: "How do I add a YouTube video?"
-
-Screenshot: TODO
+Optional Render cron deployment is included in `render.yaml`.

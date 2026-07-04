@@ -7,7 +7,7 @@ def read_json(path: str) -> dict[str, Any]:
     file_path = Path(path)
     if not file_path.exists():
         return {}
-    return json.loads(file_path.read_text(encoding="utf-8"))
+    return json.loads(file_path.read_text(encoding="utf-8-sig"))
 
 
 def write_json(path: str, payload: dict[str, Any]) -> None:

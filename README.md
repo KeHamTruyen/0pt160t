@@ -70,6 +70,6 @@ Setup:
 3. Run `Actions > Daily OptiBot Ingest > Run workflow`.
 4. The schedule runs daily at `07:00 UTC`.
 
-Daily job logs/artifact: GitHub Actions > Daily OptiBot Ingest > latest run > artifact `optibot-last-run`.
+Daily job logs/artifact: https://github.com/KeHamTruyen/0pt160t/actions/runs/28700984673/job/85118847508
 
 Optional Render cron deployment is included in `render.yaml`.

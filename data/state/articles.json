@@ -9,15 +9,6 @@
       "updated_at": "2026-06-18T05:00:56Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
     },
-    "36501302096915": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "fba6ce932ad739fed69479ed4c0ec982c4bbc2906fbec07d1891d3a77309fece",
-      "path": "data/docs/36501302096915-how-to-access-the-troubleshooting-page-of-the-optisigns-player.md",
-      "slug": "36501302096915-how-to-access-the-troubleshooting-page-of-the-optisigns-player",
-      "title": "How to access the Troubleshooting page of the OptiSigns Player",
-      "updated_at": "2025-09-02T20:08:24Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/36501302096915-How-to-access-the-Troubleshooting-page-of-the-OptiSigns-Player"
-    },
     "36911639377683": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "6685bfbcf9d44b6b608e04b11a322d65efa6963ac003a59b31855fd7abd551a8",
@@ -272,14 +263,23 @@
     },
     "53095698149011": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "22b3c303dbce429e6a11645a2298eabce5ad614a9d345f9fb35bda1e45c26e88",
+      "hash": "c9c3e4d54732858df174243599ea6666010f1b9dafe9d673a7ba58cfe93b5d21",
       "path": "data/docs/53095698149011-using-the-japan-earthquake-app.md",
       "slug": "53095698149011-using-the-japan-earthquake-app",
       "title": "Using the Japan Earthquake App",
-      "updated_at": "2026-07-02T14:16:18Z",
+      "updated_at": "2026-07-06T14:22:20Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
+    },
+    "53216900345875": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "2d697d34e480d9f12bcc75f8ba31c8f22a5d19a9850052112f39c0cc0dccb0a8",
+      "path": "data/docs/53216900345875-what-access-does-optisigns-have-to-my-account-and-devices.md",
+      "slug": "53216900345875-what-access-does-optisigns-have-to-my-account-and-devices",
+      "title": "What Access Does OptiSigns Have to My Account and Devices?",
+      "updated_at": "2026-07-06T15:29:04Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-07-06T11:25:58.256728+00:00"
+  "generated_at": "2026-07-07T10:23:28.020830+00:00"
 }

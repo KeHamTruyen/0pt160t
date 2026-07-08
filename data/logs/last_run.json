@@ -1,38 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 8,
-      "file_search": {
-        "display_name": "53216900345875-what-access-does-optisigns-have-to-my-account-and-devices.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53216900345875whataccessdoe-m8s13x7mujuq"
-      },
-      "id": 53216900345875,
-      "status": "added",
-      "title": "What Access Does OptiSigns Have to My Account and Devices?",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices"
-    },
-    {
-      "chunks": 6,
-      "file_search": {
-        "display_name": "53095698149011-using-the-japan-earthquake-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53095698149011usingthejapan-q1dvldhluc70"
-      },
-      "id": 53095698149011,
-      "status": "updated",
-      "title": "Using the Japan Earthquake App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
-    }
-  ],
-  "chunks_indexed": 14,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 2,
-  "finished_at": "2026-07-07T10:23:28.021916+00:00",
-  "skipped": 29,
-  "started_at": "2026-07-07T10:23:13.577656+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-07-08T09:23:49.855676+00:00",
+  "skipped": 31,
+  "started_at": "2026-07-08T09:23:48.714930+00:00",
+  "updated": 0
 }

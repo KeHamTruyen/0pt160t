@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns
 
-Last Updated: 2026-06-18T05:00:56Z
+Last Updated: 2026-07-08T15:01:25Z
 
 Putting YouTube video on your digital signs screens is easy with OptiSigns.  
 You just need to copy the YouTube Link and paste in the YouTube app in OptiSigns.
@@ -17,31 +17,25 @@ Go to Files/Assets, Click on "App".
 
 ![](https://support.optisigns.com/hc/article_attachments/26482420798611)
  
-
 Click YouTube (or YouTube Live):
 
-![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360077769013)
+![mceclip0.png](https://support.optisigns.com/hc/article_attachments/360077769013)Enter your YouTube video information:
 
-Enter your YouTube video information:
-
-![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360076614294)
-
-- **Name**: Give your YouTube video a name. This is for displaying in your asset list only. The app will try to get the video's title and use as name, but you can change it to something else.
+![mceclip1.png](https://support.optisigns.com/hc/article_attachments/360076614294)- **Name**: Give your YouTube video a name. This is for displaying in your asset list only. The app will try to get the video's title and use as name, but you can change it to something else.
 - **URL**: Paste the link to your YouTube video here. This should be the actual URL, not the Share link:
 
 ![firefox_0SsesYq2vw(1).png](https://support.optisigns.com/hc/article_attachments/39392515861395)
 
 | **NOTE** |
 | --- |
-| For Youtube Shorts, change the part of the URL that reads **/shorts****/**to instead read **/embed/**.Example:  [https://youtube.com/shorts/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R)  becomes [https://youtube.com/embed/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")This will allow Youtube Shorts to display in OptiSigns. |
+| For Youtube Shorts, change the part of the URL that reads **/shorts/**.Example:  [https://youtube.com/shorts/BUXczOFByAU?si\=TO8RGfmokQMdsI6R](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R) becomes [https://](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[www.](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[youtube.com/](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[wat](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[c](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[h](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[?](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[v](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[\=](https://www.youtube.com/watch?v=xxxxxx "https://youtube.com/embed/BUXczOFByAU?si=TO8RGfmokQMdsI6R")[BUXczOFByAU](https://youtube.com/shorts/BUXczOFByAU?si=TO8RGfmokQMdsI6R)This will allow Youtube Shorts to display in OptiSigns. |
 
 - **Caption**: If the YouTube video has closed caption, the app will show it. Note: closed caption must be created by the YouTube video author, auto generated caption may not work.
 
 Click Save.  
 After Saving, you can Preview the video to verify.  
   
-
-## **That's all! Congratulations!**
+ ## **That's all! Congratulations!**
 
 You have added a YouTube video.
 

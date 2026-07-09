@@ -2,21 +2,12 @@
   "articles": {
     "360051014713": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "32be48bc113ac2ca4caad955c7992005e58db622946a9669c40408719c71944e",
+      "hash": "27109918b6c6badcd714d6d3687e3a7d0839f01cae5622da816a2f7b2a0e2dfd",
       "path": "data/docs/360051014713-how-to-use-youtube-with-optisigns.md",
       "slug": "360051014713-how-to-use-youtube-with-optisigns",
       "title": "How to use YouTube with OptiSigns",
-      "updated_at": "2026-06-18T05:00:56Z",
+      "updated_at": "2026-07-08T15:01:25Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
-    },
-    "36911639377683": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "6685bfbcf9d44b6b608e04b11a322d65efa6963ac003a59b31855fd7abd551a8",
-      "path": "data/docs/36911639377683-how-to-use-optisigns-with-microsoft-teams-rooms.md",
-      "slug": "36911639377683-how-to-use-optisigns-with-microsoft-teams-rooms",
-      "title": "How to Use OptiSigns with Microsoft Teams Rooms",
-      "updated_at": "2025-09-04T18:42:32Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/36911639377683-How-to-Use-OptiSigns-with-Microsoft-Teams-Rooms"
     },
     "37966066335891": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
@@ -218,11 +209,11 @@
     },
     "52113036672403": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "d01c4d734fa0bd58ee0adf60aadd6587b24d5c5356acc48d29c79a4a108655f9",
+      "hash": "650747847f9c0f656dd854e0f9a196e0aeb54b81c40224c4aba2facc22cc986f",
       "path": "data/docs/52113036672403-room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
       "slug": "52113036672403-room-integrations-turn-your-meeting-rooms-into-digital-signage",
       "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
-      "updated_at": "2026-06-15T19:14:16Z",
+      "updated_at": "2026-07-08T14:58:11Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage"
     },
     "52350277262483": {
@@ -263,11 +254,11 @@
     },
     "53095698149011": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "c9c3e4d54732858df174243599ea6666010f1b9dafe9d673a7ba58cfe93b5d21",
+      "hash": "092ba1ae3273c9d3478a990838c09b738c6e5ed6c1c31b2afbae0984fccf328a",
       "path": "data/docs/53095698149011-using-the-japan-earthquake-app.md",
       "slug": "53095698149011-using-the-japan-earthquake-app",
       "title": "Using the Japan Earthquake App",
-      "updated_at": "2026-07-06T14:22:20Z",
+      "updated_at": "2026-07-08T18:39:51Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
     },
     "53216900345875": {
@@ -278,8 +269,17 @@
       "title": "What Access Does OptiSigns Have to My Account and Devices?",
       "updated_at": "2026-07-06T15:29:04Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53216900345875-What-Access-Does-OptiSigns-Have-to-My-Account-and-Devices"
+    },
+    "53293393593491": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "fef2d402789893063d58df77d523346c9c346919910c959e7f10a8d16eb3f5ff",
+      "path": "data/docs/53293393593491-refer-earn-optisigns-referral-program.md",
+      "slug": "53293393593491-refer-earn-optisigns-referral-program",
+      "title": "Refer & Earn: OptiSigns Referral Program",
+      "updated_at": "2026-07-08T17:09:50Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-07-08T09:23:49.855144+00:00"
+  "generated_at": "2026-07-09T10:22:08.889426+00:00"
 }

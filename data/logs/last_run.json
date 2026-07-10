@@ -1,64 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 7,
-      "file_search": {
-        "display_name": "53293393593491-refer-earn-optisigns-referral-program.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53293393593491referearnopti-kg0g0s6p9elq"
-      },
-      "id": 53293393593491,
-      "status": "added",
-      "title": "Refer & Earn: OptiSigns Referral Program",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program"
-    },
-    {
-      "chunks": 6,
-      "file_search": {
-        "display_name": "53095698149011-using-the-japan-earthquake-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53095698149011usingthejapan-ljafrkqq30qs"
-      },
-      "id": 53095698149011,
-      "status": "updated",
-      "title": "Using the Japan Earthquake App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
-    },
-    {
-      "chunks": 12,
-      "file_search": {
-        "display_name": "52113036672403-room-integrations-turn-your-meeting-rooms-into-digital-signage.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/52113036672403roomintegrati-7kg8leroo4h1"
-      },
-      "id": 52113036672403,
-      "status": "updated",
-      "title": "Room Integrations: Turn Your Meeting Rooms into Digital Signage",
-      "url": "https://support.optisigns.com/hc/en-us/articles/52113036672403-Room-Integrations-Turn-Your-Meeting-Rooms-into-Digital-Signage"
-    },
-    {
-      "chunks": 4,
-      "file_search": {
-        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-zbc41zw7r4i5"
-      },
-      "id": 360051014713,
-      "status": "updated",
-      "title": "How to use YouTube with OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 29,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 4,
-  "finished_at": "2026-07-09T10:22:08.889908+00:00",
-  "skipped": 27,
-  "started_at": "2026-07-09T10:21:41.535209+00:00",
-  "updated": 3
+  "files_uploaded": 0,
+  "finished_at": "2026-07-10T10:21:08.256526+00:00",
+  "skipped": 31,
+  "started_at": "2026-07-10T10:21:07.016101+00:00",
+  "updated": 0
 }

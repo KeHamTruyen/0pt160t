@@ -9,15 +9,6 @@
       "updated_at": "2026-07-08T15:01:25Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
     },
-    "37966066335891": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "0922210e49f5fa3299ed5d2f1057ab46b1eacc37f0b09a95bb4e5eb57aca466a",
-      "path": "data/docs/37966066335891-getting-started-with-an-optisigns-free-trial.md",
-      "slug": "37966066335891-getting-started-with-an-optisigns-free-trial",
-      "title": "Getting Started with an OptiSigns Free Trial",
-      "updated_at": "2025-09-04T18:44:24Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/37966066335891-Getting-Started-with-an-OptiSigns-Free-Trial"
-    },
     "38062664690195": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "22c86d9f73071e9b547e6a5d5d230f2afda6bb882b5295d8399928c1285200e1",
@@ -278,8 +269,17 @@
       "title": "Refer & Earn: OptiSigns Referral Program",
       "updated_at": "2026-07-08T17:09:50Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program"
+    },
+    "53497007807251": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "2cf108192969021b758d322587703535d3aadff890a94d14e9efa508dcbe353e",
+      "path": "data/docs/53497007807251-device-management-and-mass-provisioning.md",
+      "slug": "53497007807251-device-management-and-mass-provisioning",
+      "title": "Device Management and Mass Provisioning",
+      "updated_at": "2026-07-16T16:39:52Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-07-16T09:10:38.920497+00:00"
+  "generated_at": "2026-07-17T09:06:59.117702+00:00"
 }

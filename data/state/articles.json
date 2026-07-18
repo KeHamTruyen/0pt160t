@@ -191,11 +191,11 @@
     },
     "52069065128723": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "e38a87adb011d25d483fab4e637680598638a72873dda71ee4fd983c06b1e92b",
+      "hash": "d78c12908bde5ec68331de74f19e1ccaf30deb1335226b18f377d65163a1596b",
       "path": "data/docs/52069065128723-connect-zoom-rooms-to-optisigns-digital-signage.md",
       "slug": "52069065128723-connect-zoom-rooms-to-optisigns-digital-signage",
       "title": "Connect Zoom Rooms to OptiSigns Digital Signage",
-      "updated_at": "2026-06-11T22:22:00Z",
+      "updated_at": "2026-07-17T22:17:54Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage"
     },
     "52113036672403": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-07-17T09:06:59.117702+00:00"
+  "generated_at": "2026-07-18T08:47:05.696169+00:00"
 }

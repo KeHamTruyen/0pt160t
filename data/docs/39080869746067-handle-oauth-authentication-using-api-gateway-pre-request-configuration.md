@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration
 
-Last Updated: 2025-08-28T18:42:06Z
+Last Updated: 2026-07-28T20:42:44Z
 
 ### In this article, we will explain how to set up a Pre\-request to retrieve an OAuth 2\.0 access token for connecting to an API using an API Gateway.
 

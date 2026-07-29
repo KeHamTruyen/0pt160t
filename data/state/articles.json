@@ -20,11 +20,11 @@
     },
     "39080869746067": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "a08d5127e07bd917c02fcfb1ab02d87af64dc0932a56451ff87129d0da1cee4a",
+      "hash": "658251ccedacfac5e9085d190e226b21cba38d59767fbda19c814fdf911f3964",
       "path": "data/docs/39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "slug": "39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration",
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
-      "updated_at": "2025-08-28T18:42:06Z",
+      "updated_at": "2026-07-28T20:42:44Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
     },
     "39250660729747": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-07-28T09:33:44.119579+00:00"
+  "generated_at": "2026-07-29T09:35:19.290147+00:00"
 }

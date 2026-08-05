@@ -9,15 +9,6 @@
       "updated_at": "2026-07-08T15:01:25Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-use-YouTube-with-OptiSigns"
     },
-    "38062664690195": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "22c86d9f73071e9b547e6a5d5d230f2afda6bb882b5295d8399928c1285200e1",
-      "path": "data/docs/38062664690195-tagging-in-optisigns.md",
-      "slug": "38062664690195-tagging-in-optisigns",
-      "title": "Tagging in OptiSigns",
-      "updated_at": "2025-09-09T19:34:07Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/38062664690195-Tagging-in-OptiSigns"
-    },
     "39080869746067": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "658251ccedacfac5e9085d190e226b21cba38d59767fbda19c814fdf911f3964",
@@ -278,8 +269,17 @@
       "title": "Device Management and Mass Provisioning",
       "updated_at": "2026-07-16T16:39:52Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
+    },
+    "53952018650515": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "6dca6da06027336b70c44a6327bc28f675cc20334af1234aff96523ab5c0a16e",
+      "path": "data/docs/53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
+      "slug": "53952018650515-how-to-display-databricks-dashboards-on-optisigns",
+      "title": "How to Display Databricks Dashboards on OptiSigns",
+      "updated_at": "2026-08-04T17:57:34Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-08-04T09:36:51.249068+00:00"
+  "generated_at": "2026-08-05T09:34:09.500243+00:00"
 }

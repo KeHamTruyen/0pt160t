@@ -1,11 +1,25 @@
 {
-  "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "added": 1,
+  "articles": [
+    {
+      "chunks": 18,
+      "file_search": {
+        "display_name": "53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53952018650515howtodisplayd-gai75fegg1uj"
+      },
+      "id": 53952018650515,
+      "status": "added",
+      "title": "How to Display Databricks Dashboards on OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
+    }
+  ],
+  "chunks_indexed": 18,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-08-04T09:36:51.249698+00:00",
-  "skipped": 31,
-  "started_at": "2026-08-04T09:36:49.977283+00:00",
+  "files_uploaded": 1,
+  "finished_at": "2026-08-05T09:34:09.500806+00:00",
+  "skipped": 30,
+  "started_at": "2026-08-05T09:34:00.647829+00:00",
   "updated": 0
 }

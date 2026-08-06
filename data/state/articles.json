@@ -117,15 +117,6 @@
       "updated_at": "2025-10-17T16:01:18Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions"
     },
-    "47616485609491": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "1acf77ab1b7932be883d0b191e9ecf2a7fa295b36b6fe08cd3feae4be8653644",
-      "path": "data/docs/47616485609491-how-to-use-the-optidev-app.md",
-      "slug": "47616485609491-how-to-use-the-optidev-app",
-      "title": "How to Use the OptiDev App",
-      "updated_at": "2026-02-11T23:03:49Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/47616485609491-How-to-Use-the-OptiDev-App"
-    },
     "48241081473043": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "dd4b7a45ed4690a3d9932decade9a488aee7c1a2f8ac4921cbfd3ef421c12175",
@@ -272,14 +263,23 @@
     },
     "53952018650515": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "6dca6da06027336b70c44a6327bc28f675cc20334af1234aff96523ab5c0a16e",
+      "hash": "a0ae354f7ca4de966257b11407ce73918baee65be5c86d73dfcb45f9838b9d16",
       "path": "data/docs/53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
       "slug": "53952018650515-how-to-display-databricks-dashboards-on-optisigns",
       "title": "How to Display Databricks Dashboards on OptiSigns",
-      "updated_at": "2026-08-04T17:57:34Z",
+      "updated_at": "2026-08-05T16:53:02Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
+    },
+    "54095075680275": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "a7becb55128097ccfdd2f33a7a37b15c244a76f2adf08993d734d1ef070b2a22",
+      "path": "data/docs/54095075680275-optidev-add-on-free-trial-and-pricing.md",
+      "slug": "54095075680275-optidev-add-on-free-trial-and-pricing",
+      "title": "OptiDev Add-on - Free Trial and Pricing",
+      "updated_at": "2026-08-05T18:22:19Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-08-05T09:34:09.500243+00:00"
+  "generated_at": "2026-08-06T09:37:15.425066+00:00"
 }

@@ -1,38 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 16,
-      "file_search": {
-        "display_name": "54095075680275-optidev-add-on-free-trial-and-pricing.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/54095075680275optidevaddonf-2qgjiu5mi0ys"
-      },
-      "id": 54095075680275,
-      "status": "added",
-      "title": "OptiDev Add-on - Free Trial and Pricing",
-      "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
-    },
-    {
-      "chunks": 19,
-      "file_search": {
-        "display_name": "53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53952018650515howtodisplayd-vpiq7h29yvfi"
-      },
-      "id": 53952018650515,
-      "status": "updated",
-      "title": "How to Display Databricks Dashboards on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 35,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 2,
-  "finished_at": "2026-08-06T09:37:15.425686+00:00",
-  "skipped": 29,
-  "started_at": "2026-08-06T09:36:58.835924+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-08-07T08:10:41.268200+00:00",
+  "skipped": 31,
+  "started_at": "2026-08-07T08:10:39.721260+00:00",
+  "updated": 0
 }

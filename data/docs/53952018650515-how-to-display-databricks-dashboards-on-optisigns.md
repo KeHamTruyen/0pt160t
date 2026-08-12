@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns
 
-Last Updated: 2026-08-05T16:53:02Z
+Last Updated: 2026-08-11T19:04:29Z
 
 ### In this article, we'll walk you through setting up Databricks to display on your OptiSigns digital signs.
 
@@ -14,6 +14,8 @@ Last Updated: 2026-08-05T16:53:02Z
 	- [Enable Dashboard Embed](#EnableEmbedding)
 	- [Publish Dashboard](#PublishDashboard)
 	- [Share Dashboard with Service Principal](#ShareDashboard)
+	- [Grant the Service Principal Access to the Data (Unity Catalog)](#GrantAccessToData)
+		- [Granting at the Catalog Level Instead](#CatalogLevel)
 - [Create a Databricks App in OptiSigns](#CreateDatabricksApp)
 - [Deploying a Databricks App](#DeployingDatabricks)
 - [Frequently Asked Questions](#FAQs)
@@ -51,17 +53,15 @@ A service principal (SP) is what OptiSigns uses to render the dashboard. This se
 
 Create it in Databricks by clicking the workspace menu in the top right, then clicking **Settings:**
 
-![](https://support.optisigns.com/hc/article_attachments/54089526933395)
-
-### 
+![Databricks workspace menu open with Settings highlighted](https://support.optisigns.com/hc/article_attachments/54089526933395)
 
 Open **Identity and access**, then find **Service principals** and hit **Manage**.
 
-![](https://support.optisigns.com/hc/article_attachments/54089511420947)Click Add service principal, then Add new service principal to account and workspace:
+![Databricks Identity and access settings with Manage beside Service principals](https://support.optisigns.com/hc/article_attachments/54089511420947)Click Add service principal, then Add new service principal to account and workspace:
 
-![](https://support.optisigns.com/hc/article_attachments/54089526939667)Keep the default entitlements (**Consumer**, **Databricks SQL**, **Workspace** \= On; **Admin** \= Off) → **Add service principal:**
+![Add service principal dialog with Add new service principal to account and workspace selected](https://support.optisigns.com/hc/article_attachments/54089526939667)Keep the default entitlements (**Consumer**, **Databricks SQL**, **Workspace** \= On; **Admin** \= Off) → **Add service principal:**
 
-![](https://support.optisigns.com/hc/article_attachments/54089526941331)Next, open the service principal. Your **Client ID** and **Secret** will show. Copy these values. You'll need them.
+![Add service principal dialog with the name and entitlements set and Admin access off](https://support.optisigns.com/hc/article_attachments/54089526941331)Next, open the service principal. Your **Client ID** and **Secret** will show. Copy these values. You'll need them.
 
 | **NOTE** |
 | --- |
@@ -69,11 +69,11 @@ Open **Identity and access**, then find **Service principals** and hit **Manage*
 
 The last two values you need are your **Workspace URL** and **Workspace ID.** These are both visible in your Databricks browser address bar (the ID is the `?o=` value).
 
-[![](https://support.optisigns.com/hc/article_attachments/54089511430547)](https://support.optisigns.com/optisigns/optisigns-smallapp/optisigns-smallapp-databricks/-/raw/feature/danling/databricks/docs/images/03-databricks-workspace-url-id.png)
+[![Databricks home page with the browser address bar labelled Workspace URL and Workspace ID](https://support.optisigns.com/hc/article_attachments/54089511430547)](https://support.optisigns.com/optisigns/optisigns-smallapp/optisigns-smallapp-databricks/-/raw/feature/danling/databricks/docs/images/03-databricks-workspace-url-id.png)
 
 You can also find the Workspace ID in your workspace menu.
 
-![](https://support.optisigns.com/hc/article_attachments/54089526942995)
+![Databricks workspace menu showing the Workspace ID with its copy button](https://support.optisigns.com/hc/article_attachments/54089526942995)
 
 You now have all **four values** the connection needs: Workspace URL, Workspace ID, Client ID, Secret.
 
@@ -81,13 +81,13 @@ You now have all **four values** the connection needs: Workspace URL, Workspace 
 
 Go to **Integrations** under your main menu:
 
-![](https://support.optisigns.com/hc/article_attachments/54089511434643) 
+![OptiSigns account menu expanded to More with Integrations highlighted](https://support.optisigns.com/hc/article_attachments/54089511434643) 
 
 Then, click the **Databricks tab** → **Add Databricks Connection**.
 
-![](https://support.optisigns.com/hc/article_attachments/54089511435539)Fill in the form:
+![OptiSigns Integrations page on the Databricks tab with the Add Databricks Connection button](https://support.optisigns.com/hc/article_attachments/54089511435539)Fill in the form:
 
-![](https://support.optisigns.com/hc/article_attachments/54089526946323)
+![Add Databricks Connection form with fields for workspace URL, ID, client ID and OAuth secret](https://support.optisigns.com/hc/article_attachments/54089526946323)
 
 These values correspond [to the In DataBricks section](#InDatabricks) of this article.
 
@@ -117,7 +117,7 @@ Under **External access**, find **Embed dashboards and Genie Agents**.
 
 Set it to Allow (embed on any domain), or Allow approved domains and add the OptiSigns player host: social\-player.optisigns.com. Allow approved domains allows you to keep your embed private while still allowing OptiSigns to access it.
 
-![](https://support.optisigns.com/hc/article_attachments/54089511438611)Do **not** set it to **Deny** — that blocks embedding. On the Free Edition, this may be locked to Allow. This is fine, that's what we want.
+![Databricks Security settings with the Embed dashboards dropdown open on Allow](https://support.optisigns.com/hc/article_attachments/54089511438611)Do **not** set it to **Deny** — that blocks embedding. On the Free Edition, this may be locked to Allow. This is fine, that's what we want.
 
 ### Publish Dashboard
 
@@ -128,7 +128,7 @@ Choose a **data\-permission mode**. Both options work with OptiSigns — pick th
 - **Share data permission (default)** — viewers run queries using the **publisher's credentials**, which enables a **shared cache** for performance.
 - **Individual data permission** — each viewer uses their **own data permission** to run queries, which can lead to **more frequent refresh operations**.
 
-![](https://support.optisigns.com/hc/article_attachments/54089511440019)
+![Databricks publish dialog showing Share data permission selected and the Publish button](https://support.optisigns.com/hc/article_attachments/54089511440019)
 
 Note that publishing is not the same as sharing. You will still need to share this Dashboard with our previously created service principal.
 
@@ -138,11 +138,44 @@ Now we'll get the published dashboard shared with our service principal. 
 
 On the dashboard, click **Share**. Add the **service principal your connection uses** with **CAN RUN** (or CAN MANAGE).
 
-[![](https://support.optisigns.com/hc/article_attachments/54089511441811)](https://support.optisigns.com/optisigns/optisigns-smallapp/optisigns-smallapp-databricks/-/raw/feature/danling/databricks/docs/images/05-databricks-share-service-principal.png)
+[![Databricks sharing dialog with the optisigns-embed service principal found and Can Manage set](https://support.optisigns.com/hc/article_attachments/54089511441811)](https://support.optisigns.com/optisigns/optisigns-smallapp/optisigns-smallapp-databricks/-/raw/feature/danling/databricks/docs/images/05-databricks-share-service-principal.png)
 
 Make sure the service principal can access the **data** the dashboard uses.
 
 Back in OptiSigns, **reopen the app config** (or re\-select the connection) so the dashboard list refreshes.
+
+### Grant the Service Principal Access to the Data (Unity Catalog)
+
+**Only needed if you published with** ***Individual data permission***. With *Share data permission*, queries run on the publisher's credentials and you can skip this step.
+
+| **NOTE** |
+| --- |
+| Sharing the dashboard is not the same as granting access to its data. Sharing lets the service principal OPEN the dashboard. Reading the tables behind it needs separate Unity Catalog privileges. Without them, the dashboard loads with all its titles and layout, but every tile will show "Unable to render visualization." |
+
+Click Catalog in the sidebar and select the schema your dashboard's tables live in. Then go to the Permissions tab and click Grant.
+
+![Databricks Catalog Explorer on the signage_demo Permissions tab with Grant highlighted](https://support.optisigns.com/hc/article_attachments/54312955352723)
+
+Now navigate to **Principals** and find your service principal (e.g. `optisigns-embed`).
+
+Tick **USE SCHEMA** (under *Prerequisite*) and **SELECT** (under *Read*). Leave everything else unticked. The screens only need to read.
+
+[![Grant dialog for the optisigns_embed principal with USE SCHEMA and SELECT ticked](https://support.optisigns.com/hc/article_attachments/54312987805715)](https://support.optisigns.com/optisigns/optisigns-smallapp/optisigns-smallapp-databricks/-/raw/feature/danling/databricks/docs/images/10-databricks-grant-sp-privileges.png)
+
+Click **Confirm**.
+
+Privileges are inherited by all tables and views in the schema, so you don't need to repeat this per table. Do repeat it for **each schema the dashboard reads**, including any lookup or dimension tables it joins to.
+
+### Granting at the catalog level instead
+
+You can grant the same privileges on the **catalog** rather than the schema. Select the catalog and tick `USE CATALOG`, `USE SCHEMA` and `SELECT`.
+
+That covers every schema in the catalog, including ones created later, so there's nothing to repeat. The trade\-off is that the service principal can then read *all* the data in that catalog, not just what the dashboards display.
+
+Choose based on what you're comfortable with the screens being able to query:
+
+- **Schema level** — the service principal reads only the schemas your dashboards use.
+- **Catalog level** — one grant, but the service principal can read everything in the catalog.
 
 ---
 
@@ -152,9 +185,9 @@ Now that we've got our service principal connection and dashboard(s) prepared, w
 
 To do this, open OptiSigns and go to **Files/Assets** → **Apps** → **Databricks**.
 
-![](https://support.optisigns.com/hc/article_attachments/54089511443091)You'll open up the Databricks app and need to fill in some required information:
+![OptiSigns Add App dialog with the Databricks app tile in the search results](https://support.optisigns.com/hc/article_attachments/54089511443091)You'll open up the Databricks app and need to fill in some required information:
 
-![](https://support.optisigns.com/hc/article_attachments/54089526955283)
+![OptiSigns Databricks app settings with connection, published dashboard and refresh interval](https://support.optisigns.com/hc/article_attachments/54089526955283)
 
 - **Name \-** The name of your Databricks app. This is for use in OptiSigns and will not display on your screen.
 - **Databricks Connection \-** Choose from any Databricks connections you've set up.
@@ -170,11 +203,11 @@ You can deploy your new Databricks app as an individual asset, or as part of a [
 
 To get your new Databricks asset to a screen, go to the **Screens** tab, then click the screen you want to assign it to.
 
-[![](https://support.optisigns.com/hc/article_attachments/54089526956179)](https://support.optisigns.com/hc/article_attachments/53028011480979)
+[![OptiSigns Screens list with the Edit button highlighted on a screen](https://support.optisigns.com/hc/article_attachments/54089526956179)](https://support.optisigns.com/hc/article_attachments/54089526956179)
 
 This brings us to the **Edit Screen** tab:
 
-[![](https://support.optisigns.com/hc/article_attachments/54089511451283)](https://support.optisigns.com/hc/article_attachments/53027988865171)
+[![Edit Screen dialog with Content Type set to Asset and an asset selector](https://support.optisigns.com/hc/article_attachments/54089511451283)](https://support.optisigns.com/hc/article_attachments/54089511451283)
 
 Here, select **Asset** under Content type. If you already have an Asset, Playlist, or Schedule selected, you can hit **Change**.
 
@@ -227,6 +260,6 @@ You can always refresh your screen manually to get the latest update.
 
 Usually, this has to do with an expired or rotated service principal secret. Try generating a new secret within Databricks and updating your OptiSigns connection.
 
-### That's all!
+### That’s all!
 
 OptiSigns is a leader in [digital signage software](https://www.optisigns.com/). If you have any additional questions, concerns or any feedback about OptiSigns or getting Snowflake to work on it, feel free to reach out to our support team at [support@optisigns.com](mailto:support@optisigns.com).

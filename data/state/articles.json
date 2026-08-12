@@ -263,11 +263,11 @@
     },
     "53952018650515": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "a0ae354f7ca4de966257b11407ce73918baee65be5c86d73dfcb45f9838b9d16",
+      "hash": "f4450179447a32c45c592fa898d3aab51ad44fc5de22482901487042296b6ce5",
       "path": "data/docs/53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
       "slug": "53952018650515-how-to-display-databricks-dashboards-on-optisigns",
       "title": "How to Display Databricks Dashboards on OptiSigns",
-      "updated_at": "2026-08-05T16:53:02Z",
+      "updated_at": "2026-08-11T19:04:29Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
     },
     "54095075680275": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-08-11T08:07:12.964917+00:00"
+  "generated_at": "2026-08-12T08:16:30.569650+00:00"
 }

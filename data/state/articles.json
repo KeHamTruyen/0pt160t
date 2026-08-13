@@ -227,11 +227,11 @@
     },
     "53095698149011": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "092ba1ae3273c9d3478a990838c09b738c6e5ed6c1c31b2afbae0984fccf328a",
+      "hash": "d5f67e64f0350029ddec7ad03adcfb366003f043524066757564f79363c42b3a",
       "path": "data/docs/53095698149011-using-the-japan-earthquake-app.md",
       "slug": "53095698149011-using-the-japan-earthquake-app",
       "title": "Using the Japan Earthquake App",
-      "updated_at": "2026-07-08T18:39:51Z",
+      "updated_at": "2026-08-12T14:38:37Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
     },
     "53216900345875": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-08-12T08:16:30.569650+00:00"
+  "generated_at": "2026-08-13T08:17:26.057617+00:00"
 }

@@ -2,24 +2,24 @@
   "added": 0,
   "articles": [
     {
-      "chunks": 23,
+      "chunks": 6,
       "file_search": {
-        "display_name": "53952018650515-how-to-display-databricks-dashboards-on-optisigns.md",
+        "display_name": "53095698149011-using-the-japan-earthquake-app.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53952018650515howtodisplayd-8z9fnieve3q1"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53095698149011usingthejapan-lk94i0c8db6q"
       },
-      "id": 53952018650515,
+      "id": 53095698149011,
       "status": "updated",
-      "title": "How to Display Databricks Dashboards on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53952018650515-How-to-Display-Databricks-Dashboards-on-OptiSigns"
+      "title": "Using the Japan Earthquake App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
     }
   ],
-  "chunks_indexed": 23,
+  "chunks_indexed": 6,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
   "files_uploaded": 1,
-  "finished_at": "2026-08-12T08:16:30.570223+00:00",
+  "finished_at": "2026-08-13T08:17:26.058086+00:00",
   "skipped": 30,
-  "started_at": "2026-08-12T08:13:27.914541+00:00",
+  "started_at": "2026-08-13T08:17:17.782448+00:00",
   "updated": 1
 }

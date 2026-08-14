@@ -1,25 +1,11 @@
 {
   "added": 0,
-  "articles": [
-    {
-      "chunks": 6,
-      "file_search": {
-        "display_name": "53095698149011-using-the-japan-earthquake-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53095698149011usingthejapan-lk94i0c8db6q"
-      },
-      "id": 53095698149011,
-      "status": "updated",
-      "title": "Using the Japan Earthquake App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53095698149011-Using-the-Japan-Earthquake-App"
-    }
-  ],
-  "chunks_indexed": 6,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-08-13T08:17:26.058086+00:00",
-  "skipped": 30,
-  "started_at": "2026-08-13T08:17:17.782448+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-08-14T08:12:10.840527+00:00",
+  "skipped": 31,
+  "started_at": "2026-08-14T08:12:09.317669+00:00",
+  "updated": 0
 }

@@ -191,11 +191,11 @@
     },
     "52350277262483": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "d8a067ccdabf4dac2da9b0e3fecc61475084951621dc320cdb6dd17baa8c2695",
+      "hash": "f279cec2f04cd43992022f603dfcef5d9f47fbe56984118c92e31dacc696bd37",
       "path": "data/docs/52350277262483-connect-microsoft-teams-rooms-to-optisigns-digital-signage.md",
       "slug": "52350277262483-connect-microsoft-teams-rooms-to-optisigns-digital-signage",
       "title": "Connect Microsoft Teams Rooms to OptiSigns Digital Signage",
-      "updated_at": "2026-06-24T18:39:16Z",
+      "updated_at": "2026-08-27T19:45:55Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage"
     },
     "52412502456083": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-08-27T18:03:35.059388+00:00"
+  "generated_at": "2026-08-28T19:13:07.901140+00:00"
 }

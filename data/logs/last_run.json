@@ -1,11 +1,25 @@
 {
   "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "articles": [
+    {
+      "chunks": 5,
+      "file_search": {
+        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-z4m0fom6cq27"
+      },
+      "id": 360051014713,
+      "status": "updated",
+      "title": "How to Use YouTube with OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
+    }
+  ],
+  "chunks_indexed": 5,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-09-04T11:57:26.364381+00:00",
-  "skipped": 31,
-  "started_at": "2026-09-04T11:57:25.199915+00:00",
-  "updated": 0
+  "files_uploaded": 1,
+  "finished_at": "2026-09-05T11:06:35.234353+00:00",
+  "skipped": 30,
+  "started_at": "2026-09-05T11:06:27.384527+00:00",
+  "updated": 1
 }

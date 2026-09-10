@@ -2,20 +2,20 @@
   "articles": {
     "360051014713": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "5d6f64bcc11e76483db825590b5adaaea7b289d2f3d491dda0ce5cef420930fa",
+      "hash": "145be89204cef574bc9cf70415899767c62e313aad9756e8df2efd20b1393cb9",
       "path": "data/docs/360051014713-how-to-use-youtube-with-optisigns.md",
       "slug": "360051014713-how-to-use-youtube-with-optisigns",
       "title": "How to Use YouTube with OptiSigns",
-      "updated_at": "2026-09-04T20:47:35Z",
+      "updated_at": "2026-09-10T09:43:28Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
     "39080869746067": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "658251ccedacfac5e9085d190e226b21cba38d59767fbda19c814fdf911f3964",
+      "hash": "feaf44ff90580017c83b68f940ff43bc41ddf26e7b9324fa0933d5ac6b4f4575",
       "path": "data/docs/39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
       "slug": "39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration",
       "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
-      "updated_at": "2026-07-28T20:42:44Z",
+      "updated_at": "2026-09-10T10:46:28Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
     },
     "39250660729747": {
@@ -29,11 +29,11 @@
     },
     "39488874989587": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "a78e01f776e664566c7963ac8662d5b72165adf2c095cb9096212392e33bd794",
+      "hash": "b57e64fe9b378e037b034aab89700692165e074f510759ec1657baed65986fa6",
       "path": "data/docs/39488874989587-fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
       "slug": "39488874989587-fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick",
       "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
-      "updated_at": "2025-09-04T15:25:54Z",
+      "updated_at": "2026-09-10T10:46:30Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick"
     },
     "40147900639891": {
@@ -47,20 +47,20 @@
     },
     "40212027797523": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "71c9da92c51f6da385a8d897de38e79d27f7beb17f6efa35b0342efc8bd3afd7",
+      "hash": "7b714eb95c3279e35e09e1841a150688a73121a45a6c2ebf33659b34f25a2e08",
       "path": "data/docs/40212027797523-disk-encryption.md",
       "slug": "40212027797523-disk-encryption",
       "title": "Disk Encryption",
-      "updated_at": "2025-09-04T16:19:23Z",
+      "updated_at": "2026-09-10T10:46:32Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption"
     },
     "40671590645651": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "2583154b0d8f53cdd637d96870fe96b554f79acb784995042a0dc1a3272f713d",
+      "hash": "e039e081f81a3dd1fbae831ae1703a60f8bd708f6146c6df128e3bd10cd3ae1e",
       "path": "data/docs/40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
       "slug": "40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound",
       "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "updated_at": "2026-04-08T22:33:37Z",
+      "updated_at": "2026-09-10T10:46:35Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
     },
     "40736654972563": {
@@ -83,11 +83,11 @@
     },
     "42087942047379": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "f7bc2a208daea62739eeed60439038fa29dd44c9d6850dcd987e824c7fd8983e",
+      "hash": "3a252b95a5c4fa7a9e47ebbbfed29a26ba6d6dd8eb6fbcbce28cece7584dfba3",
       "path": "data/docs/42087942047379-getting-started-with-designer.md",
       "slug": "42087942047379-getting-started-with-designer",
       "title": "Getting Started with Designer",
-      "updated_at": "2025-10-07T17:18:32Z",
+      "updated_at": "2026-09-10T10:46:39Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer"
     },
     "43657735780627": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-09T12:07:29.986799+00:00"
+  "generated_at": "2026-09-10T12:02:02.844795+00:00"
 }

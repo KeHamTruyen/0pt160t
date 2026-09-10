@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer
 
-Last Updated: 2025-10-07T17:18:32Z
+Last Updated: 2026-09-10T10:46:39Z
 
 ### In this article, we’ll cover the basic functions and features of the OptiSigns Designer app.
 

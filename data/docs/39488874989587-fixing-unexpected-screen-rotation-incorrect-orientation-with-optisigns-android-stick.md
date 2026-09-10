@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick
 
-Last Updated: 2025-09-04T15:25:54Z
+Last Updated: 2026-09-10T10:46:30Z
 
 Some Smart TVs have auto\-rotation enabled by default, which can also affect devices connected via HDMI, including OptiSigns Android Stick players.
 

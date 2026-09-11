@@ -1,90 +1,11 @@
 {
   "added": 0,
-  "articles": [
-    {
-      "chunks": 31,
-      "file_search": {
-        "display_name": "42087942047379-getting-started-with-designer.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/42087942047379gettingstarte-lyezkwmrwwdu"
-      },
-      "id": 42087942047379,
-      "status": "updated",
-      "title": "Getting Started with Designer",
-      "url": "https://support.optisigns.com/hc/en-us/articles/42087942047379-Getting-Started-with-Designer"
-    },
-    {
-      "chunks": 10,
-      "file_search": {
-        "display_name": "40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/40671590645651howtoplaylice-b82am1xflv82"
-      },
-      "id": 40671590645651,
-      "status": "updated",
-      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
-    },
-    {
-      "chunks": 7,
-      "file_search": {
-        "display_name": "40212027797523-disk-encryption.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/40212027797523diskencryptio-stsqvw6may7k"
-      },
-      "id": 40212027797523,
-      "status": "updated",
-      "title": "Disk Encryption",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption"
-    },
-    {
-      "chunks": 2,
-      "file_search": {
-        "display_name": "39488874989587-fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/39488874989587fixingunexpec-4ukhz4uodp0c"
-      },
-      "id": 39488874989587,
-      "status": "updated",
-      "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
-      "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick"
-    },
-    {
-      "chunks": 5,
-      "file_search": {
-        "display_name": "39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/39080869746067handleoauthau-p5nsuow5xwdm"
-      },
-      "id": 39080869746067,
-      "status": "updated",
-      "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
-      "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
-    },
-    {
-      "chunks": 5,
-      "file_search": {
-        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-fqwgnuzrktc2"
-      },
-      "id": 360051014713,
-      "status": "updated",
-      "title": "How to Use YouTube with OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 60,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 6,
-  "finished_at": "2026-09-10T12:02:02.845463+00:00",
-  "skipped": 25,
-  "started_at": "2026-09-10T12:01:24.941907+00:00",
-  "updated": 6
+  "files_uploaded": 0,
+  "finished_at": "2026-09-11T11:59:51.697223+00:00",
+  "skipped": 31,
+  "started_at": "2026-09-11T11:59:50.103166+00:00",
+  "updated": 0
 }

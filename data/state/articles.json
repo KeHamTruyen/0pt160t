@@ -2,11 +2,11 @@
   "articles": {
     "360051014713": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "145be89204cef574bc9cf70415899767c62e313aad9756e8df2efd20b1393cb9",
+      "hash": "bd6caabb7c1b1681ca276ae28ab6ab7be702ac7cd6501ca2621e0a9f434ec0b6",
       "path": "data/docs/360051014713-how-to-use-youtube-with-optisigns.md",
       "slug": "360051014713-how-to-use-youtube-with-optisigns",
       "title": "How to Use YouTube with OptiSigns",
-      "updated_at": "2026-09-10T09:43:28Z",
+      "updated_at": "2026-09-15T09:51:14Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
     "39080869746067": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-14T13:35:51.282799+00:00"
+  "generated_at": "2026-09-15T12:26:03.244734+00:00"
 }

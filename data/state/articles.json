@@ -9,33 +9,6 @@
       "updated_at": "2026-09-15T09:51:14Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "39080869746067": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "feaf44ff90580017c83b68f940ff43bc41ddf26e7b9324fa0933d5ac6b4f4575",
-      "path": "data/docs/39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration.md",
-      "slug": "39080869746067-handle-oauth-authentication-using-api-gateway-pre-request-configuration",
-      "title": "Handle OAuth Authentication using API Gateway Pre-request Configuration",
-      "updated_at": "2026-09-10T10:46:28Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/39080869746067-Handle-OAuth-Authentication-using-API-Gateway-Pre-request-Configuration"
-    },
-    "39250660729747": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "e210f03693e83e60dffe761fb837be6bbdf5589637ec57fc0674f124a4e4e975",
-      "path": "data/docs/39250660729747-how-to-use-the-tableau-app.md",
-      "slug": "39250660729747-how-to-use-the-tableau-app",
-      "title": "How to Use the Tableau App",
-      "updated_at": "2026-01-06T22:36:49Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/39250660729747-How-to-Use-the-Tableau-App"
-    },
-    "39488874989587": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "b57e64fe9b378e037b034aab89700692165e074f510759ec1657baed65986fa6",
-      "path": "data/docs/39488874989587-fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick.md",
-      "slug": "39488874989587-fixing-unexpected-screen-rotation-incorrect-orientation-with-optisigns-android-stick",
-      "title": "Fixing Unexpected Screen Rotation & Incorrect Orientation with OptiSigns Android Stick",
-      "updated_at": "2026-09-10T10:46:30Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/39488874989587-Fixing-Unexpected-Screen-Rotation-Incorrect-Orientation-with-OptiSigns-Android-Stick"
-    },
     "40147900639891": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "4c2db645be5bc84d4c26a1373a93ec8111b5ae0aee216e730842146c251f6a44",
@@ -278,8 +251,35 @@
       "title": "OptiDev Add-on - Free Trial and Pricing",
       "updated_at": "2026-08-05T18:22:19Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
+    },
+    "55416185869331": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "fbbc4dc6a6c1c8e661c20114ebb1829f8d488166eed816c28cebfab4c52154c2",
+      "path": "data/docs/55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+      "slug": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards",
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "updated_at": "2026-09-15T15:34:23Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
+    },
+    "55416186918163": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "bbabc8ae25dc6e652a1e0e572be30c960ec38f1462a6427d7d5556eed86ae7c0",
+      "path": "data/docs/55416186918163-how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+      "slug": "55416186918163-how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast",
+      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+      "updated_at": "2026-09-15T17:33:06Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast"
+    },
+    "55450681344915": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "ae34b3c96a0e9936058be9e47a17501f7183a396757b21aacc2b05c9d9a14699",
+      "path": "data/docs/55450681344915-connect-sharepoint-news-to-optisigns-digital-signage.md",
+      "slug": "55450681344915-connect-sharepoint-news-to-optisigns-digital-signage",
+      "title": "Connect SharePoint News to OptiSigns Digital Signage",
+      "updated_at": "2026-09-15T23:09:01Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-15T12:26:03.244734+00:00"
+  "generated_at": "2026-09-16T12:24:01.243099+00:00"
 }

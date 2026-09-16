@@ -1,25 +1,51 @@
 {
-  "added": 0,
+  "added": 3,
   "articles": [
     {
-      "chunks": 5,
+      "chunks": 22,
       "file_search": {
-        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
+        "display_name": "55450681344915-connect-sharepoint-news-to-optisigns-digital-signage.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-23e83jdpaoet"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55450681344915connectsharep-z5kimmfs4lp6"
       },
-      "id": 360051014713,
-      "status": "updated",
-      "title": "How to Use YouTube with OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
+      "id": 55450681344915,
+      "status": "added",
+      "title": "Connect SharePoint News to OptiSigns Digital Signage",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
+    },
+    {
+      "chunks": 9,
+      "file_search": {
+        "display_name": "55416186918163-how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416186918163howtogetamicr-aq0h6bn68dyo"
+      },
+      "id": 55416186918163,
+      "status": "added",
+      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast"
+    },
+    {
+      "chunks": 15,
+      "file_search": {
+        "display_name": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416185869331broadcastsend-u2ajl4uk5he9"
+      },
+      "id": 55416185869331,
+      "status": "added",
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
     }
   ],
-  "chunks_indexed": 5,
+  "chunks_indexed": 46,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-09-15T12:26:03.245315+00:00",
-  "skipped": 30,
-  "started_at": "2026-09-15T12:25:54.063639+00:00",
-  "updated": 1
+  "files_uploaded": 3,
+  "finished_at": "2026-09-16T12:24:01.243609+00:00",
+  "skipped": 28,
+  "started_at": "2026-09-16T12:23:39.845766+00:00",
+  "updated": 0
 }

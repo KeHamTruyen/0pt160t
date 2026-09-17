@@ -1,51 +1,11 @@
 {
-  "added": 3,
-  "articles": [
-    {
-      "chunks": 22,
-      "file_search": {
-        "display_name": "55450681344915-connect-sharepoint-news-to-optisigns-digital-signage.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55450681344915connectsharep-z5kimmfs4lp6"
-      },
-      "id": 55450681344915,
-      "status": "added",
-      "title": "Connect SharePoint News to OptiSigns Digital Signage",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
-    },
-    {
-      "chunks": 9,
-      "file_search": {
-        "display_name": "55416186918163-how-to-get-a-microsoft-teams-webhook-url-for-optisigns-broadcast.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416186918163howtogetamicr-aq0h6bn68dyo"
-      },
-      "id": 55416186918163,
-      "status": "added",
-      "title": "How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast"
-    },
-    {
-      "chunks": 15,
-      "file_search": {
-        "display_name": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416185869331broadcastsend-u2ajl4uk5he9"
-      },
-      "id": 55416185869331,
-      "status": "added",
-      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
-    }
-  ],
-  "chunks_indexed": 46,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 3,
-  "finished_at": "2026-09-16T12:24:01.243609+00:00",
-  "skipped": 28,
-  "started_at": "2026-09-16T12:23:39.845766+00:00",
+  "files_uploaded": 0,
+  "finished_at": "2026-09-17T12:23:25.345027+00:00",
+  "skipped": 31,
+  "started_at": "2026-09-17T12:23:23.774161+00:00",
   "updated": 0
 }

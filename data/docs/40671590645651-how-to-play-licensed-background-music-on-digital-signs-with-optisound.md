@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound
 
-Last Updated: 2026-09-10T10:46:35Z
+Last Updated: 2026-09-18T13:02:26Z
 
 ### In this article, we’ll guide you through setting up **OptiSound**, our licensed background music add\-on built directly into OptiSigns.
 

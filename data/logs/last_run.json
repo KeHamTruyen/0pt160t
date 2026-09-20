@@ -1,25 +1,11 @@
 {
   "added": 0,
-  "articles": [
-    {
-      "chunks": 10,
-      "file_search": {
-        "display_name": "40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/40671590645651howtoplaylice-n0ml76c8nln1"
-      },
-      "id": 40671590645651,
-      "status": "updated",
-      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
-    }
-  ],
-  "chunks_indexed": 10,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-09-19T11:45:46.952724+00:00",
-  "skipped": 30,
-  "started_at": "2026-09-19T11:45:38.766416+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-09-20T11:59:06.272572+00:00",
+  "skipped": 31,
+  "started_at": "2026-09-20T11:59:04.874917+00:00",
+  "updated": 0
 }

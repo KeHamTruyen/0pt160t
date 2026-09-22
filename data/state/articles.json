@@ -9,15 +9,6 @@
       "updated_at": "2026-09-15T09:51:14Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "40147900639891": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "4c2db645be5bc84d4c26a1373a93ec8111b5ae0aee216e730842146c251f6a44",
-      "path": "data/docs/40147900639891-optistick-troubleshooting-guide.md",
-      "slug": "40147900639891-optistick-troubleshooting-guide",
-      "title": "OptiStick Troubleshooting Guide",
-      "updated_at": "2026-06-26T13:52:36Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40147900639891-OptiStick-Troubleshooting-Guide"
-    },
     "40212027797523": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "7b714eb95c3279e35e09e1841a150688a73121a45a6c2ebf33659b34f25a2e08",
@@ -278,8 +269,17 @@
       "title": "Connect SharePoint News to OptiSigns Digital Signage",
       "updated_at": "2026-09-15T23:09:01Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55450681344915-Connect-SharePoint-News-to-OptiSigns-Digital-Signage"
+    },
+    "55640830295187": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "518ae81f72648b6e860b2c386cf6ea97b1d1e23cbe8bf47ea931f8dd6d404434",
+      "path": "data/docs/55640830295187-using-the-japan-transit-app.md",
+      "slug": "55640830295187-using-the-japan-transit-app",
+      "title": "Using the Japan Transit App",
+      "updated_at": "2026-09-21T20:41:52Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-21T13:34:31.091760+00:00"
+  "generated_at": "2026-09-22T12:19:09.437596+00:00"
 }

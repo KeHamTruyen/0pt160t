@@ -1,11 +1,25 @@
 {
-  "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "added": 1,
+  "articles": [
+    {
+      "chunks": 15,
+      "file_search": {
+        "display_name": "55640830295187-using-the-japan-transit-app.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55640830295187usingthejapan-b5qaa3gch9y3"
+      },
+      "id": 55640830295187,
+      "status": "added",
+      "title": "Using the Japan Transit App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App"
+    }
+  ],
+  "chunks_indexed": 15,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-09-21T13:34:31.092313+00:00",
-  "skipped": 31,
-  "started_at": "2026-09-21T13:34:29.455002+00:00",
+  "files_uploaded": 1,
+  "finished_at": "2026-09-22T12:19:09.438219+00:00",
+  "skipped": 30,
+  "started_at": "2026-09-22T12:19:01.190445+00:00",
   "updated": 0
 }

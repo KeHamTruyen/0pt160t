@@ -9,24 +9,6 @@
       "updated_at": "2026-09-15T09:51:14Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "40212027797523": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "7b714eb95c3279e35e09e1841a150688a73121a45a6c2ebf33659b34f25a2e08",
-      "path": "data/docs/40212027797523-disk-encryption.md",
-      "slug": "40212027797523-disk-encryption",
-      "title": "Disk Encryption",
-      "updated_at": "2026-09-10T10:46:32Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40212027797523-Disk-Encryption"
-    },
-    "40671590645651": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "4e2ee12439a63b287429bf7718f8a8877da2fb2afa540470e3f4d38122760cd8",
-      "path": "data/docs/40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound.md",
-      "slug": "40671590645651-how-to-play-licensed-background-music-on-digital-signs-with-optisound",
-      "title": "How to Play Licensed Background Music on Digital Signs with OptiSound",
-      "updated_at": "2026-09-18T13:02:26Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40671590645651-How-to-Play-Licensed-Background-Music-on-Digital-Signs-with-OptiSound"
-    },
     "40736654972563": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "a0c71c816d9f850d66acb0fc8f216d552af2f4c8ce7108d817018116d75fb453",
@@ -261,6 +243,15 @@
       "updated_at": "2026-09-15T17:33:06Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast"
     },
+    "55447693635731": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "9ef68e0b8753686fa1890227874fd518b39664aa9f5b7208a895f04f61a88976",
+      "path": "data/docs/55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
+      "slug": "55447693635731-how-to-display-grafana-dashboards-on-optisigns",
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "updated_at": "2026-09-22T14:14:49Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns"
+    },
     "55450681344915": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "ae34b3c96a0e9936058be9e47a17501f7183a396757b21aacc2b05c9d9a14699",
@@ -278,8 +269,17 @@
       "title": "Using the Japan Transit App",
       "updated_at": "2026-09-21T20:41:52Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App"
+    },
+    "55669121864979": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "8cb1c492d92636c73aa137ce929b13cc0b705a0fbdf7d1aa9f05473638a52e96",
+      "path": "data/docs/55669121864979-using-the-flight-schedule-app.md",
+      "slug": "55669121864979-using-the-flight-schedule-app",
+      "title": "Using the Flight Schedule App",
+      "updated_at": "2026-09-22T18:59:24Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-22T12:19:09.437596+00:00"
+  "generated_at": "2026-09-23T12:31:39.230594+00:00"
 }

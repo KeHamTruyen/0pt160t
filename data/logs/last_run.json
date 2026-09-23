@@ -1,25 +1,38 @@
 {
-  "added": 1,
+  "added": 2,
   "articles": [
     {
-      "chunks": 15,
+      "chunks": 17,
       "file_search": {
-        "display_name": "55640830295187-using-the-japan-transit-app.md",
+        "display_name": "55669121864979-using-the-flight-schedule-app.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55640830295187usingthejapan-b5qaa3gch9y3"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55669121864979usingthefligh-17brmbn1vc6x"
       },
-      "id": 55640830295187,
+      "id": 55669121864979,
       "status": "added",
-      "title": "Using the Japan Transit App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55640830295187-Using-the-Japan-Transit-App"
+      "title": "Using the Flight Schedule App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App"
+    },
+    {
+      "chunks": 31,
+      "file_search": {
+        "display_name": "55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55447693635731howtodisplayg-vv3n5n6hkde3"
+      },
+      "id": 55447693635731,
+      "status": "added",
+      "title": "How to Display Grafana Dashboards on OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns"
     }
   ],
-  "chunks_indexed": 15,
+  "chunks_indexed": 48,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-09-22T12:19:09.438219+00:00",
-  "skipped": 30,
-  "started_at": "2026-09-22T12:19:01.190445+00:00",
+  "files_uploaded": 2,
+  "finished_at": "2026-09-23T12:31:39.231324+00:00",
+  "skipped": 29,
+  "started_at": "2026-09-23T12:31:24.070361+00:00",
   "updated": 0
 }

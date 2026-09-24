@@ -1,38 +1,38 @@
 {
-  "added": 2,
+  "added": 1,
   "articles": [
     {
-      "chunks": 17,
+      "chunks": 16,
       "file_search": {
-        "display_name": "55669121864979-using-the-flight-schedule-app.md",
+        "display_name": "55709616003219-using-the-x-social-app-add-on.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55669121864979usingthefligh-17brmbn1vc6x"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55709616003219usingthexsoci-jmtjc069jdys"
       },
-      "id": 55669121864979,
+      "id": 55709616003219,
       "status": "added",
-      "title": "Using the Flight Schedule App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App"
+      "title": "Using the X Social App / Add-On",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On"
     },
     {
-      "chunks": 31,
+      "chunks": 15,
       "file_search": {
-        "display_name": "55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
+        "display_name": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55447693635731howtodisplayg-vv3n5n6hkde3"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416185869331broadcastsend-nyjrt11t3bsj"
       },
-      "id": 55447693635731,
-      "status": "added",
-      "title": "How to Display Grafana Dashboards on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns"
+      "id": 55416185869331,
+      "status": "updated",
+      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
     }
   ],
-  "chunks_indexed": 48,
+  "chunks_indexed": 31,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
   "files_uploaded": 2,
-  "finished_at": "2026-09-23T12:31:39.231324+00:00",
+  "finished_at": "2026-09-24T12:30:56.776069+00:00",
   "skipped": 29,
-  "started_at": "2026-09-23T12:31:24.070361+00:00",
-  "updated": 0
+  "started_at": "2026-09-24T12:30:41.233430+00:00",
+  "updated": 1
 }

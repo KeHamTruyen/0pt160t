@@ -9,15 +9,6 @@
       "updated_at": "2026-09-15T09:51:14Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "40736654972563": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "a0c71c816d9f850d66acb0fc8f216d552af2f4c8ce7108d817018116d75fb453",
-      "path": "data/docs/40736654972563-optisigns-pro-promax-player-troubleshooting-guide.md",
-      "slug": "40736654972563-optisigns-pro-promax-player-troubleshooting-guide",
-      "title": "OptiSigns Pro/ProMax Player Troubleshooting Guide",
-      "updated_at": "2026-01-13T21:20:16Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/40736654972563-OptiSigns-Pro-ProMax-Player-Troubleshooting-Guide"
-    },
     "41432385864595": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "0465ae6a65467f048e746c8fe7bdcb4f43fa12c2bc257a2aa11d1e44bdd37bce",
@@ -227,11 +218,11 @@
     },
     "55416185869331": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "fbbc4dc6a6c1c8e661c20114ebb1829f8d488166eed816c28cebfab4c52154c2",
+      "hash": "25583b2f56f16a0347a11df48ac411c2284c2ae16f3a3c84be45b57c995e32db",
       "path": "data/docs/55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
       "slug": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards",
       "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "updated_at": "2026-09-15T15:34:23Z",
+      "updated_at": "2026-09-23T16:24:51Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
     },
     "55416186918163": {
@@ -278,8 +269,17 @@
       "title": "Using the Flight Schedule App",
       "updated_at": "2026-09-22T18:59:24Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App"
+    },
+    "55709616003219": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "c0aeebe4dae5757a362818745b6016199160911e1801fee7a0bafc20d038e623",
+      "path": "data/docs/55709616003219-using-the-x-social-app-add-on.md",
+      "slug": "55709616003219-using-the-x-social-app-add-on",
+      "title": "Using the X Social App / Add-On",
+      "updated_at": "2026-09-23T19:58:50Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-23T12:31:39.230594+00:00"
+  "generated_at": "2026-09-24T12:30:56.775452+00:00"
 }

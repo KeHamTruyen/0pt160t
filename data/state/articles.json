@@ -2,21 +2,12 @@
   "articles": {
     "360051014713": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "bd6caabb7c1b1681ca276ae28ab6ab7be702ac7cd6501ca2621e0a9f434ec0b6",
+      "hash": "543e1c2b7e2c393f58bf1ca099dd668ce3f610763a8eb8188595872367ecae5d",
       "path": "data/docs/360051014713-how-to-use-youtube-with-optisigns.md",
       "slug": "360051014713-how-to-use-youtube-with-optisigns",
       "title": "How to Use YouTube with OptiSigns",
-      "updated_at": "2026-09-15T09:51:14Z",
+      "updated_at": "2026-09-24T14:52:18Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
-    },
-    "41432385864595": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "0465ae6a65467f048e746c8fe7bdcb4f43fa12c2bc257a2aa11d1e44bdd37bce",
-      "path": "data/docs/41432385864595-designer-2-0-new-features.md",
-      "slug": "41432385864595-designer-2-0-new-features",
-      "title": "Designer 2.0 New Features",
-      "updated_at": "2026-05-12T14:17:09Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/41432385864595-Designer-2-0-New-Features"
     },
     "42087942047379": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
@@ -278,8 +269,17 @@
       "title": "Using the X Social App / Add-On",
       "updated_at": "2026-09-23T19:58:50Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On"
+    },
+    "55719322614803": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "a75c0d77e65cfa96a39368c2a0f73753db83152e6e0fcd8fefcb11194162f4b9",
+      "path": "data/docs/55719322614803-inbound-webhook-datasources-in-designer.md",
+      "slug": "55719322614803-inbound-webhook-datasources-in-designer",
+      "title": "Inbound Webhook DataSources in Designer",
+      "updated_at": "2026-09-24T17:00:10Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-09-24T12:30:56.775452+00:00"
+  "generated_at": "2026-09-25T12:31:50.390943+00:00"
 }

@@ -2,37 +2,37 @@
   "added": 1,
   "articles": [
     {
-      "chunks": 16,
+      "chunks": 23,
       "file_search": {
-        "display_name": "55709616003219-using-the-x-social-app-add-on.md",
+        "display_name": "55719322614803-inbound-webhook-datasources-in-designer.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55709616003219usingthexsoci-jmtjc069jdys"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55719322614803inboundwebhoo-9in8506gacht"
       },
-      "id": 55709616003219,
+      "id": 55719322614803,
       "status": "added",
-      "title": "Using the X Social App / Add-On",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55709616003219-Using-the-X-Social-App-Add-On"
+      "title": "Inbound Webhook DataSources in Designer",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
     },
     {
-      "chunks": 15,
+      "chunks": 12,
       "file_search": {
-        "display_name": "55416185869331-broadcast-send-scheduled-snapshots-of-your-dashboards.md",
+        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55416185869331broadcastsend-nyjrt11t3bsj"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-gsjgyvwa7gh4"
       },
-      "id": 55416185869331,
+      "id": 360051014713,
       "status": "updated",
-      "title": "Broadcast: Send Scheduled Snapshots of Your Dashboards",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards"
+      "title": "How to Use YouTube with OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     }
   ],
-  "chunks_indexed": 31,
+  "chunks_indexed": 35,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
   "files_uploaded": 2,
-  "finished_at": "2026-09-24T12:30:56.776069+00:00",
+  "finished_at": "2026-09-25T12:31:50.432966+00:00",
   "skipped": 29,
-  "started_at": "2026-09-24T12:30:41.233430+00:00",
+  "started_at": "2026-09-25T12:31:35.498527+00:00",
   "updated": 1
 }

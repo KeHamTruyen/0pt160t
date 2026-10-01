@@ -1,38 +1,11 @@
 {
-  "added": 2,
-  "articles": [
-    {
-      "chunks": 10,
-      "file_search": {
-        "display_name": "55906396437523-how-to-use-the-weather-radar-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55906396437523howtousethewe-s62cb9qadh8l"
-      },
-      "id": 55906396437523,
-      "status": "added",
-      "title": "How to Use the Weather Radar App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App"
-    },
-    {
-      "chunks": 36,
-      "file_search": {
-        "display_name": "55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55895814798739howtodisplays-n2uabdqki69k"
-      },
-      "id": 55895814798739,
-      "status": "added",
-      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 46,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 2,
-  "finished_at": "2026-09-30T13:18:44.731568+00:00",
-  "skipped": 29,
-  "started_at": "2026-09-30T13:18:28.398914+00:00",
+  "files_uploaded": 0,
+  "finished_at": "2026-10-01T14:08:24.971829+00:00",
+  "skipped": 31,
+  "started_at": "2026-10-01T14:08:21.560462+00:00",
   "updated": 0
 }

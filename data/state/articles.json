@@ -209,11 +209,11 @@
     },
     "55447693635731": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "9ef68e0b8753686fa1890227874fd518b39664aa9f5b7208a895f04f61a88976",
+      "hash": "be0424e993ad61e5a66b45556894f7790d8e31aeb6adfd640d4b478a2702a0c7",
       "path": "data/docs/55447693635731-how-to-display-grafana-dashboards-on-optisigns.md",
       "slug": "55447693635731-how-to-display-grafana-dashboards-on-optisigns",
       "title": "How to Display Grafana Dashboards on OptiSigns",
-      "updated_at": "2026-09-22T14:14:49Z",
+      "updated_at": "2026-10-08T16:32:47Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55447693635731-How-to-Display-Grafana-Dashboards-on-OptiSigns"
     },
     "55450681344915": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-08T14:20:29.405969+00:00"
+  "generated_at": "2026-10-09T14:05:36.192676+00:00"
 }

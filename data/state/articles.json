@@ -263,11 +263,11 @@
     },
     "55895814798739": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "66627b14b408832cc3a4cea2fb9ea5129a868fb67279980ce8b4bb22df303500",
+      "hash": "b7faea13259dcbb933b46735d5faa08658c4578a0d611f9c4fabc860b9ab1011",
       "path": "data/docs/55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "slug": "55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns",
       "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
-      "updated_at": "2026-09-29T19:44:32Z",
+      "updated_at": "2026-10-12T20:31:04Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
     },
     "55906396437523": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-12T16:26:41.400001+00:00"
+  "generated_at": "2026-10-13T14:46:06.358391+00:00"
 }

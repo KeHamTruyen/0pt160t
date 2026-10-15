@@ -65,11 +65,11 @@
     },
     "49039295567891": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "251b48609fb08dca77d4f8c0bc3f792ed946233eb2dded07863fb11d6dc141e8",
+      "hash": "8c4c35743ec1612b980f5ab616d9855e7031099f81e90214a7ba9654fba7ee2b",
       "path": "data/docs/49039295567891-chromeos-pwa-instructions.md",
       "slug": "49039295567891-chromeos-pwa-instructions",
       "title": "ChromeOS PWA Instructions",
-      "updated_at": "2026-05-05T15:48:27Z",
+      "updated_at": "2026-10-14T19:21:13Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions"
     },
     "51343184586643": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-14T12:37:19.311615+00:00"
+  "generated_at": "2026-10-15T12:25:35.603541+00:00"
 }

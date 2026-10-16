@@ -164,11 +164,11 @@
     },
     "53497007807251": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "2cf108192969021b758d322587703535d3aadff890a94d14e9efa508dcbe353e",
+      "hash": "4b870d4be6e6ca0634f6173c448d46a52a75281f703b5c935510adc023cc7c8e",
       "path": "data/docs/53497007807251-device-management-and-mass-provisioning.md",
       "slug": "53497007807251-device-management-and-mass-provisioning",
       "title": "Device Management and Mass Provisioning",
-      "updated_at": "2026-07-16T16:39:52Z",
+      "updated_at": "2026-10-15T16:10:20Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
     },
     "53952018650515": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-15T12:25:35.603541+00:00"
+  "generated_at": "2026-10-16T12:04:14.265675+00:00"
 }

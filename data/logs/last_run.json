@@ -2,24 +2,24 @@
   "added": 0,
   "articles": [
     {
-      "chunks": 16,
+      "chunks": 17,
       "file_search": {
-        "display_name": "49039295567891-chromeos-pwa-instructions.md",
+        "display_name": "53497007807251-device-management-and-mass-provisioning.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/49039295567891chromeospwain-iijbn8vxc2t3"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53497007807251devicemanagem-o71lzrmpqh74"
       },
-      "id": 49039295567891,
+      "id": 53497007807251,
       "status": "updated",
-      "title": "ChromeOS PWA Instructions",
-      "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions"
+      "title": "Device Management and Mass Provisioning",
+      "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
     }
   ],
-  "chunks_indexed": 16,
+  "chunks_indexed": 17,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
   "files_uploaded": 1,
-  "finished_at": "2026-10-15T12:25:35.604012+00:00",
+  "finished_at": "2026-10-16T12:04:14.294980+00:00",
   "skipped": 30,
-  "started_at": "2026-10-15T12:25:28.128672+00:00",
+  "started_at": "2026-10-16T12:04:05.076801+00:00",
   "updated": 1
 }

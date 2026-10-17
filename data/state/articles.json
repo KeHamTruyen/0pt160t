@@ -9,33 +9,6 @@
       "updated_at": "2026-09-24T14:52:18Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "44890229616403": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "4b797e2284aab9d08e847569c1d955aa22f5d0dbc5ce1eab8527788a71508f71",
-      "path": "data/docs/44890229616403-using-an-enterprise-network-802-1x-with-optisigns.md",
-      "slug": "44890229616403-using-an-enterprise-network-802-1x-with-optisigns",
-      "title": "Using an Enterprise Network (802.1x) with OptiSigns",
-      "updated_at": "2026-05-20T18:11:11Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/44890229616403-Using-an-Enterprise-Network-802-1x-with-OptiSigns"
-    },
-    "45619214182803": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "01342dca91b44f4fd0467f2af6d664e0e913e0022a3b44b8b3fedee5ac56a55f",
-      "path": "data/docs/45619214182803-how-to-set-up-an-outlook-calendar-app-with-shared-permissions.md",
-      "slug": "45619214182803-how-to-set-up-an-outlook-calendar-app-with-shared-permissions",
-      "title": "How to Set Up an Outlook Calendar App with Shared Permissions",
-      "updated_at": "2025-10-17T16:01:18Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/45619214182803-How-to-Set-Up-an-Outlook-Calendar-App-with-Shared-Permissions"
-    },
-    "48241081473043": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "dd4b7a45ed4690a3d9932decade9a488aee7c1a2f8ac4921cbfd3ef421c12175",
-      "path": "data/docs/48241081473043-operational-schedule-troubleshooting.md",
-      "slug": "48241081473043-operational-schedule-troubleshooting",
-      "title": "Operational Schedule Troubleshooting",
-      "updated_at": "2026-04-20T21:26:17Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/48241081473043-Operational-Schedule-Troubleshooting"
-    },
     "48626115821459": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "4149150e8ac58c4fb3277038abcfd30f45ef7a5777bee3c7042e4a4035d94092",
@@ -263,11 +236,11 @@
     },
     "55895814798739": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "b7faea13259dcbb933b46735d5faa08658c4578a0d611f9c4fabc860b9ab1011",
+      "hash": "83e1c35fb13b51618abba27353e5ca0ac9fc1792bb915ce94393d4741cd27a8a",
       "path": "data/docs/55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
       "slug": "55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns",
       "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
-      "updated_at": "2026-10-12T20:31:04Z",
+      "updated_at": "2026-10-16T21:20:16Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
     },
     "55906396437523": {
@@ -278,8 +251,35 @@
       "title": "How to Use the Weather Radar App",
       "updated_at": "2026-09-29T19:04:57Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55906396437523-How-to-Use-the-Weather-Radar-App"
+    },
+    "56493703696659": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "19848d119a262459fab3a8869eb0b6663cc7073ec3f793fdf73527173c1e851f",
+      "path": "data/docs/56493703696659-how-to-display-datadog-dashboards-on-optisigns.md",
+      "slug": "56493703696659-how-to-display-datadog-dashboards-on-optisigns",
+      "title": "How to Display Datadog Dashboards on OptiSigns",
+      "updated_at": "2026-10-16T19:51:56Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns"
+    },
+    "56498363329683": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "f0aafbf846aba0b1197a70b48faef7eb477f6284c8c001ceec5569c307ee2e51",
+      "path": "data/docs/56498363329683-how-to-use-the-air-quality-index-app.md",
+      "slug": "56498363329683-how-to-use-the-air-quality-index-app",
+      "title": "How to Use the Air Quality Index App",
+      "updated_at": "2026-10-16T21:10:49Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App"
+    },
+    "56498391179667": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "9969c96ea8ee41f9f330aa8b28fd6586721dbfb72d1278bd03a3d33d116ef83b",
+      "path": "data/docs/56498391179667-how-to-use-the-eventbrite-events-app.md",
+      "slug": "56498391179667-how-to-use-the-eventbrite-events-app",
+      "title": "How to Use the Eventbrite Events App",
+      "updated_at": "2026-10-16T21:22:00Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-16T12:04:14.265675+00:00"
+  "generated_at": "2026-10-17T11:19:38.060292+00:00"
 }

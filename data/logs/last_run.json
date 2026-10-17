@@ -1,25 +1,64 @@
 {
-  "added": 0,
+  "added": 3,
   "articles": [
+    {
+      "chunks": 12,
+      "file_search": {
+        "display_name": "56498391179667-how-to-use-the-eventbrite-events-app.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56498391179667howtousetheev-x3m72sj850e1"
+      },
+      "id": 56498391179667,
+      "status": "added",
+      "title": "How to Use the Eventbrite Events App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
+    },
+    {
+      "chunks": 10,
+      "file_search": {
+        "display_name": "56498363329683-how-to-use-the-air-quality-index-app.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56498363329683howtousetheai-nd23frx7xbvd"
+      },
+      "id": 56498363329683,
+      "status": "added",
+      "title": "How to Use the Air Quality Index App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App"
+    },
     {
       "chunks": 17,
       "file_search": {
-        "display_name": "53497007807251-device-management-and-mass-provisioning.md",
+        "display_name": "56493703696659-how-to-display-datadog-dashboards-on-optisigns.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/53497007807251devicemanagem-o71lzrmpqh74"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56493703696659howtodisplayd-9li09dyauk8b"
       },
-      "id": 53497007807251,
+      "id": 56493703696659,
+      "status": "added",
+      "title": "How to Display Datadog Dashboards on OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns"
+    },
+    {
+      "chunks": 31,
+      "file_search": {
+        "display_name": "55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55895814798739howtodisplays-dcrpt9w24mue"
+      },
+      "id": 55895814798739,
       "status": "updated",
-      "title": "Device Management and Mass Provisioning",
-      "url": "https://support.optisigns.com/hc/en-us/articles/53497007807251-Device-Management-and-Mass-Provisioning"
+      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
     }
   ],
-  "chunks_indexed": 17,
+  "chunks_indexed": 70,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-10-16T12:04:14.294980+00:00",
-  "skipped": 30,
-  "started_at": "2026-10-16T12:04:05.076801+00:00",
+  "files_uploaded": 4,
+  "finished_at": "2026-10-17T11:19:38.060974+00:00",
+  "skipped": 27,
+  "started_at": "2026-10-17T11:19:10.811712+00:00",
   "updated": 1
 }

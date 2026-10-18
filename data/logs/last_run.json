@@ -1,64 +1,11 @@
 {
-  "added": 3,
-  "articles": [
-    {
-      "chunks": 12,
-      "file_search": {
-        "display_name": "56498391179667-how-to-use-the-eventbrite-events-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56498391179667howtousetheev-x3m72sj850e1"
-      },
-      "id": 56498391179667,
-      "status": "added",
-      "title": "How to Use the Eventbrite Events App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
-    },
-    {
-      "chunks": 10,
-      "file_search": {
-        "display_name": "56498363329683-how-to-use-the-air-quality-index-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56498363329683howtousetheai-nd23frx7xbvd"
-      },
-      "id": 56498363329683,
-      "status": "added",
-      "title": "How to Use the Air Quality Index App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/56498363329683-How-to-Use-the-Air-Quality-Index-App"
-    },
-    {
-      "chunks": 17,
-      "file_search": {
-        "display_name": "56493703696659-how-to-display-datadog-dashboards-on-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56493703696659howtodisplayd-9li09dyauk8b"
-      },
-      "id": 56493703696659,
-      "status": "added",
-      "title": "How to Display Datadog Dashboards on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/56493703696659-How-to-Display-Datadog-Dashboards-on-OptiSigns"
-    },
-    {
-      "chunks": 31,
-      "file_search": {
-        "display_name": "55895814798739-how-to-display-salesforce-dashboards-and-reports-on-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55895814798739howtodisplays-dcrpt9w24mue"
-      },
-      "id": 55895814798739,
-      "status": "updated",
-      "title": "How to Display Salesforce Dashboards and Reports on OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 70,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 4,
-  "finished_at": "2026-10-17T11:19:38.060974+00:00",
-  "skipped": 27,
-  "started_at": "2026-10-17T11:19:10.811712+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-10-18T11:55:17.906036+00:00",
+  "skipped": 31,
+  "started_at": "2026-10-18T11:55:16.608430+00:00",
+  "updated": 0
 }

@@ -9,15 +9,6 @@
       "updated_at": "2026-10-26T13:22:13Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "48626115821459": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "4149150e8ac58c4fb3277038abcfd30f45ef7a5777bee3c7042e4a4035d94092",
-      "path": "data/docs/48626115821459-how-to-use-the-youtube-dashboard-app.md",
-      "slug": "48626115821459-how-to-use-the-youtube-dashboard-app",
-      "title": "How to Use the YouTube Dashboard App",
-      "updated_at": "2026-02-02T15:32:55Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/48626115821459-How-to-Use-the-YouTube-Dashboard-App"
-    },
     "48656950622227": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "828e73a36e320f1a64005992e610f6e5095c99141f36ff4eeefd1c8a31320994",
@@ -278,8 +269,17 @@
       "title": "How to Use the Eventbrite Events App",
       "updated_at": "2026-10-16T21:22:00Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
+    },
+    "56946344474003": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "f0315887606cb23cf43fa2c8573e57ab4a6024ef1049e8dd3adc1401fab506d3",
+      "path": "data/docs/56946344474003-lg-webos-smart-tvs-consumer-grade.md",
+      "slug": "56946344474003-lg-webos-smart-tvs-consumer-grade",
+      "title": "LG webOS Smart TVs (Consumer Grade)",
+      "updated_at": "2026-10-29T16:54:08Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-29T13:54:46.012810+00:00"
+  "generated_at": "2026-10-30T13:47:14.937472+00:00"
 }

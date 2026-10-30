@@ -1,11 +1,25 @@
 {
-  "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "added": 1,
+  "articles": [
+    {
+      "chunks": 9,
+      "file_search": {
+        "display_name": "56946344474003-lg-webos-smart-tvs-consumer-grade.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56946344474003lgwebossmartt-t0jq2gccr5w0"
+      },
+      "id": 56946344474003,
+      "status": "added",
+      "title": "LG webOS Smart TVs (Consumer Grade)",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade"
+    }
+  ],
+  "chunks_indexed": 9,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-10-29T13:54:46.013408+00:00",
-  "skipped": 31,
-  "started_at": "2026-10-29T13:54:43.413165+00:00",
+  "files_uploaded": 1,
+  "finished_at": "2026-10-30T13:47:14.938133+00:00",
+  "skipped": 30,
+  "started_at": "2026-10-30T13:47:06.087211+00:00",
   "updated": 0
 }

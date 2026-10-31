@@ -2,21 +2,12 @@
   "articles": {
     "360051014713": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "2f587518ec8a387bc0fdb6157007b0420aa6aea854b6a74e2b86ff291efdda22",
+      "hash": "b805052921f70523087f86c9091b49761d4ea6592900603b27a68ccf7beb8fa8",
       "path": "data/docs/360051014713-how-to-use-youtube-with-optisigns.md",
       "slug": "360051014713-how-to-use-youtube-with-optisigns",
       "title": "How to Use YouTube with OptiSigns",
-      "updated_at": "2026-10-26T13:22:13Z",
+      "updated_at": "2026-10-30T20:44:00Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
-    },
-    "48656950622227": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "828e73a36e320f1a64005992e610f6e5095c99141f36ff4eeefd1c8a31320994",
-      "path": "data/docs/48656950622227-how-to-use-the-google-search-console-app.md",
-      "slug": "48656950622227-how-to-use-the-google-search-console-app",
-      "title": "How to Use the Google Search Console App",
-      "updated_at": "2026-02-02T17:56:42Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App"
     },
     "48751096814995": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
@@ -278,8 +269,17 @@
       "title": "LG webOS Smart TVs (Consumer Grade)",
       "updated_at": "2026-10-29T16:54:08Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/56946344474003-LG-webOS-Smart-TVs-Consumer-Grade"
+    },
+    "56987330525587": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "acbc3fcf8f404ff25d123049049470be0c47e666af4911c5c1123b6c89a9d127",
+      "path": "data/docs/56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+      "slug": "56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector",
+      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+      "updated_at": "2026-10-30T19:28:50Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-10-30T13:47:14.937472+00:00"
+  "generated_at": "2026-10-31T13:16:05.016486+00:00"
 }

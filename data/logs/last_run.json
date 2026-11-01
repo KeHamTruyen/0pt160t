@@ -1,38 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 12,
-      "file_search": {
-        "display_name": "56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56987330525587connectchatgp-2pwgqhzoa8gu"
-      },
-      "id": 56987330525587,
-      "status": "added",
-      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
-      "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
-    },
-    {
-      "chunks": 15,
-      "file_search": {
-        "display_name": "360051014713-how-to-use-youtube-with-optisigns.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/360051014713howtouseyoutube-yev2bd730lp9"
-      },
-      "id": 360051014713,
-      "status": "updated",
-      "title": "How to Use YouTube with OptiSigns",
-      "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
-    }
-  ],
-  "chunks_indexed": 27,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 2,
-  "finished_at": "2026-10-31T13:16:05.017272+00:00",
-  "skipped": 29,
-  "started_at": "2026-10-31T13:15:48.766040+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-11-01T13:59:57.514792+00:00",
+  "skipped": 31,
+  "started_at": "2026-11-01T13:59:56.014997+00:00",
+  "updated": 0
 }

@@ -1,25 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 11,
-      "file_search": {
-        "display_name": "48656950622227-how-to-use-the-google-search-console-app.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/48656950622227howtousethego-rerogep63x0j"
-      },
-      "id": 48656950622227,
-      "status": "added",
-      "title": "How to Use the Google Search Console App",
-      "url": "https://support.optisigns.com/hc/en-us/articles/48656950622227-How-to-Use-the-Google-Search-Console-App"
-    }
-  ],
-  "chunks_indexed": 11,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-11-05T15:08:14.054228+00:00",
-  "skipped": 30,
-  "started_at": "2026-11-05T15:08:03.932186+00:00",
+  "files_uploaded": 0,
+  "finished_at": "2026-11-06T14:45:27.824260+00:00",
+  "skipped": 31,
+  "started_at": "2026-11-06T14:45:25.685745+00:00",
   "updated": 0
 }

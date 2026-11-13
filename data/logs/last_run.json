@@ -1,11 +1,25 @@
 {
   "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "articles": [
+    {
+      "chunks": 12,
+      "file_search": {
+        "display_name": "56498391179667-how-to-use-the-eventbrite-events-app.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56498391179667howtousetheev-pvlswye8t68p"
+      },
+      "id": 56498391179667,
+      "status": "updated",
+      "title": "How to Use the Eventbrite Events App",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
+    }
+  ],
+  "chunks_indexed": 12,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-11-12T15:44:10.566241+00:00",
-  "skipped": 31,
-  "started_at": "2026-11-12T15:44:08.759492+00:00",
-  "updated": 0
+  "files_uploaded": 1,
+  "finished_at": "2026-11-13T15:03:42.266585+00:00",
+  "skipped": 30,
+  "started_at": "2026-11-13T15:03:33.731194+00:00",
+  "updated": 1
 }

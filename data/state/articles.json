@@ -263,11 +263,11 @@
     },
     "56498391179667": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "9969c96ea8ee41f9f330aa8b28fd6586721dbfb72d1278bd03a3d33d116ef83b",
+      "hash": "5da90ef3eec1eb6f3f12879330f08cbdd70729d2b4fa761a9896a943b94d8cea",
       "path": "data/docs/56498391179667-how-to-use-the-eventbrite-events-app.md",
       "slug": "56498391179667-how-to-use-the-eventbrite-events-app",
       "title": "How to Use the Eventbrite Events App",
-      "updated_at": "2026-10-16T21:22:00Z",
+      "updated_at": "2026-11-12T23:15:33Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App"
     },
     "56987330525587": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-11-12T15:44:10.565844+00:00"
+  "generated_at": "2026-11-13T15:03:42.265927+00:00"
 }

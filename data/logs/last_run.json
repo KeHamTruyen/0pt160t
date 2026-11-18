@@ -1,11 +1,25 @@
 {
-  "added": 0,
-  "articles": [],
-  "chunks_indexed": 0,
+  "added": 1,
+  "articles": [
+    {
+      "chunks": 45,
+      "file_search": {
+        "display_name": "57645638683411-the-new-designer-complete-feature-guide.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57645638683411thenewdesigne-et6dvlo8b4mp"
+      },
+      "id": 57645638683411,
+      "status": "added",
+      "title": "The New Designer: Complete Feature Guide",
+      "url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide"
+    }
+  ],
+  "chunks_indexed": 45,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 0,
-  "finished_at": "2026-11-17T16:39:02.451890+00:00",
-  "skipped": 31,
-  "started_at": "2026-11-17T16:39:00.319752+00:00",
+  "files_uploaded": 1,
+  "finished_at": "2026-11-18T16:08:17.060168+00:00",
+  "skipped": 30,
+  "started_at": "2026-11-18T16:08:07.756952+00:00",
   "updated": 0
 }

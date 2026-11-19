@@ -2,24 +2,50 @@
   "added": 1,
   "articles": [
     {
-      "chunks": 45,
+      "chunks": 16,
       "file_search": {
-        "display_name": "57645638683411-the-new-designer-complete-feature-guide.md",
+        "display_name": "57688527779219-ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57645638683411thenewdesigne-et6dvlo8b4mp"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57688527779219aitoolsinopti-1i7rtbpe0myy"
       },
-      "id": 57645638683411,
+      "id": 57688527779219,
       "status": "added",
-      "title": "The New Designer: Complete Feature Guide",
-      "url": "https://support.optisigns.com/hc/en-us/articles/57645638683411-The-New-Designer-Complete-Feature-Guide"
+      "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
+      "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector"
+    },
+    {
+      "chunks": 12,
+      "file_search": {
+        "display_name": "56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56987330525587connectchatgp-rjh71bxy38sh"
+      },
+      "id": 56987330525587,
+      "status": "updated",
+      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
+      "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
+    },
+    {
+      "chunks": 16,
+      "file_search": {
+        "display_name": "54095075680275-optidev-add-on-free-trial-and-pricing.md",
+        "document": null,
+        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/54095075680275optidevaddonf-r43nxbrln5mu"
+      },
+      "id": 54095075680275,
+      "status": "updated",
+      "title": "OptiDev Add-on - Free Trial and Pricing",
+      "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
     }
   ],
-  "chunks_indexed": 45,
+  "chunks_indexed": 44,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 1,
-  "finished_at": "2026-11-18T16:08:17.060168+00:00",
-  "skipped": 30,
-  "started_at": "2026-11-18T16:08:07.756952+00:00",
-  "updated": 0
+  "files_uploaded": 3,
+  "finished_at": "2026-11-19T16:15:59.510239+00:00",
+  "skipped": 28,
+  "started_at": "2026-11-19T16:15:37.309426+00:00",
+  "updated": 2
 }

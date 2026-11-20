@@ -2,50 +2,37 @@
   "added": 1,
   "articles": [
     {
-      "chunks": 16,
+      "chunks": 11,
       "file_search": {
-        "display_name": "57688527779219-ai-tools-in-optisigns-optibot-ai-designer-optidev-and-the-ai-connector.md",
+        "display_name": "57730354923923-billing-purchase-orders-invoices-and-tax-exemption.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57688527779219aitoolsinopti-1i7rtbpe0myy"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57730354923923billingpurcha-32pfhpnrxd2j"
       },
-      "id": 57688527779219,
+      "id": 57730354923923,
       "status": "added",
-      "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
-      "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector"
+      "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+      "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption"
     },
     {
-      "chunks": 12,
+      "chunks": 22,
       "file_search": {
-        "display_name": "56987330525587-connect-chatgpt-claude-and-grok-to-optisigns-digital-signage-with-ai-connector.md",
+        "display_name": "55719322614803-inbound-webhook-datasources-in-designer.md",
         "document": null,
         "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/56987330525587connectchatgp-rjh71bxy38sh"
+        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55719322614803inboundwebhoo-wb88a7jeempg"
       },
-      "id": 56987330525587,
+      "id": 55719322614803,
       "status": "updated",
-      "title": "Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector",
-      "url": "https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector"
-    },
-    {
-      "chunks": 16,
-      "file_search": {
-        "display_name": "54095075680275-optidev-add-on-free-trial-and-pricing.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/54095075680275optidevaddonf-r43nxbrln5mu"
-      },
-      "id": 54095075680275,
-      "status": "updated",
-      "title": "OptiDev Add-on - Free Trial and Pricing",
-      "url": "https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing"
+      "title": "Inbound Webhook DataSources in Designer",
+      "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
     }
   ],
-  "chunks_indexed": 44,
+  "chunks_indexed": 33,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 3,
-  "finished_at": "2026-11-19T16:15:59.510239+00:00",
-  "skipped": 28,
-  "started_at": "2026-11-19T16:15:37.309426+00:00",
-  "updated": 2
+  "files_uploaded": 2,
+  "finished_at": "2026-11-20T15:53:33.981061+00:00",
+  "skipped": 29,
+  "started_at": "2026-11-20T15:53:18.724388+00:00",
+  "updated": 1
 }

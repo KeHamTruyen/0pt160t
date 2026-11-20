@@ -9,15 +9,6 @@
       "updated_at": "2026-10-30T20:44:00Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns"
     },
-    "49039295567891": {
-      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "8c4c35743ec1612b980f5ab616d9855e7031099f81e90214a7ba9654fba7ee2b",
-      "path": "data/docs/49039295567891-chromeos-pwa-instructions.md",
-      "slug": "49039295567891-chromeos-pwa-instructions",
-      "title": "ChromeOS PWA Instructions",
-      "updated_at": "2026-10-14T19:21:13Z",
-      "url": "https://support.optisigns.com/hc/en-us/articles/49039295567891-ChromeOS-PWA-Instructions"
-    },
     "51343184586643": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
       "hash": "a5591926c12bab46abd62dabb5c8ab5eba2b59a2d052ba7a0948f20a372ec77d",
@@ -200,11 +191,11 @@
     },
     "55719322614803": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "a75c0d77e65cfa96a39368c2a0f73753db83152e6e0fcd8fefcb11194162f4b9",
+      "hash": "d766e4a2d1b1ae42b6d09620d5e086e3b89ff4b0b5c5a3aea0ba7aceedacfc9d",
       "path": "data/docs/55719322614803-inbound-webhook-datasources-in-designer.md",
       "slug": "55719322614803-inbound-webhook-datasources-in-designer",
       "title": "Inbound Webhook DataSources in Designer",
-      "updated_at": "2026-09-24T17:00:10Z",
+      "updated_at": "2026-11-19T22:38:32Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
     },
     "55895814798739": {
@@ -278,8 +269,17 @@
       "title": "AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector",
       "updated_at": "2026-11-18T18:22:31Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/57688527779219-AI-Tools-in-OptiSigns-OptiBot-AI-Designer-OptiDev-and-the-AI-Connector"
+    },
+    "57730354923923": {
+      "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
+      "hash": "7a4ba6a09bf27f8dd9745d10186793ac8b7b1045e500bf84105a81e490b43562",
+      "path": "data/docs/57730354923923-billing-purchase-orders-invoices-and-tax-exemption.md",
+      "slug": "57730354923923-billing-purchase-orders-invoices-and-tax-exemption",
+      "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
+      "updated_at": "2026-11-19T20:27:28Z",
+      "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption"
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-11-19T16:15:59.509767+00:00"
+  "generated_at": "2026-11-20T15:53:33.980415+00:00"
 }

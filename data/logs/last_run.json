@@ -1,38 +1,11 @@
 {
-  "added": 1,
-  "articles": [
-    {
-      "chunks": 11,
-      "file_search": {
-        "display_name": "57730354923923-billing-purchase-orders-invoices-and-tax-exemption.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/57730354923923billingpurcha-32pfhpnrxd2j"
-      },
-      "id": 57730354923923,
-      "status": "added",
-      "title": "Billing: Purchase Orders, Invoices and Tax Exemption",
-      "url": "https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption"
-    },
-    {
-      "chunks": 22,
-      "file_search": {
-        "display_name": "55719322614803-inbound-webhook-datasources-in-designer.md",
-        "document": null,
-        "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-        "operation_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8/upload/operations/55719322614803inboundwebhoo-wb88a7jeempg"
-      },
-      "id": 55719322614803,
-      "status": "updated",
-      "title": "Inbound Webhook DataSources in Designer",
-      "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
-    }
-  ],
-  "chunks_indexed": 33,
+  "added": 0,
+  "articles": [],
+  "chunks_indexed": 0,
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "files_uploaded": 2,
-  "finished_at": "2026-11-20T15:53:33.981061+00:00",
-  "skipped": 29,
-  "started_at": "2026-11-20T15:53:18.724388+00:00",
-  "updated": 1
+  "files_uploaded": 0,
+  "finished_at": "2026-11-21T15:03:35.636465+00:00",
+  "skipped": 31,
+  "started_at": "2026-11-21T15:03:34.389861+00:00",
+  "updated": 0
 }

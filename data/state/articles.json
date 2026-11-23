@@ -191,11 +191,11 @@
     },
     "55719322614803": {
       "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-      "hash": "d766e4a2d1b1ae42b6d09620d5e086e3b89ff4b0b5c5a3aea0ba7aceedacfc9d",
+      "hash": "57ccdfe0efd88e6340157fd65abc4982e52f1f9f652be32049acc2bcad5b5aad",
       "path": "data/docs/55719322614803-inbound-webhook-datasources-in-designer.md",
       "slug": "55719322614803-inbound-webhook-datasources-in-designer",
       "title": "Inbound Webhook DataSources in Designer",
-      "updated_at": "2026-11-19T22:38:32Z",
+      "updated_at": "2026-11-23T16:23:26Z",
       "url": "https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer"
     },
     "55895814798739": {
@@ -281,5 +281,5 @@
     }
   },
   "file_search_store_name": "fileSearchStores/optibotsupportdocs-uu3mvcamf9c8",
-  "generated_at": "2026-11-22T15:01:02.664205+00:00"
+  "generated_at": "2026-11-23T18:56:41.641519+00:00"
 }

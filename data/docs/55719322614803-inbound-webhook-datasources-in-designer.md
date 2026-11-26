@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/55719322614803-Inbound-Webhook-DataSources-in-Designer
 
-Last Updated: 2026-11-23T16:23:26Z
+Last Updated: 2026-11-25T17:02:55Z
 
 ### In this article, we'll create an Inbound Webhook DataSource in Designer, send data to it from your own app or automation, and show that data on your screens.
 

@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/53293393593491-Refer-Earn-OptiSigns-Referral-Program
 
-Last Updated: 2026-07-08T17:09:50Z
+Last Updated: 2026-11-25T17:16:45Z
 
 - [Eligibility and Rewards](#Eligibility)
 - [How to Invite Someone](#Invite)
@@ -92,6 +92,15 @@ No. Self\-referrals and duplicate accounts aren't eligible and won't earn credit
 #### Where can I read the full rules?
 
 See the [OptiSigns Referral Program Terms](https://www.optisigns.com/terms-of-use) (Supplement to the Terms of Use) for the complete details.
+
+---
+
+## Related Articles
+
+- [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+- [Billing Details, Failed Payments \& Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
+- [Billing for Multiple Locations: Sub\-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+- [OptiSigns \- Getting Started Guide](https://support.optisigns.com/hc/en-us/articles/18823504383891?ref=related)
 
 ### That's all!
 

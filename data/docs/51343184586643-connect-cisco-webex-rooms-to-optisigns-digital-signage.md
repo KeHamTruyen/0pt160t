@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage
 
-Last Updated: 2026-07-01T16:55:46Z
+Last Updated: 2026-11-25T17:03:37Z
 
 Turn idle Cisco Webex Rooms, Boards, and Desks into digital signage. When the device is in Standby, OptiSigns plays your assigned content — images, videos, dashboards, web apps — and clears it instantly the moment a meeting starts.
 
@@ -162,3 +162,12 @@ The OptiSigns Webex Rooms integration uses a screen license just like any other 
 - Email: [support@optisigns.com](mailto:support@optisigns.com)
 - More guides: [support.optisigns.com](https://support.optisigns.com)
 - Related: [Connect Zoom Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage) · [Connect Microsoft Teams Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage)
+
+---
+
+## Related Articles
+
+- [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+- [Connect Zoom Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52069065128723?ref=related)
+- [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+- [Connect Google Meet Hardware to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52412502456083?ref=related)

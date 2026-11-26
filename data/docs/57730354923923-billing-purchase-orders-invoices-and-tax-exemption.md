@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/57730354923923-Billing-Purchase-Orders-Invoices-and-Tax-Exemption
 
-Last Updated: 2026-11-19T20:27:28Z
+Last Updated: 2026-11-25T17:16:41Z
 
 ### In this article, we'll show you how to get a quote and pay by purchase order or invoice, where to find our W\-9 and vendor details, how sales tax and VAT are charged, and how to apply for tax exemption.
 
@@ -105,6 +105,16 @@ The **Tax ID** section only appears once you've saved a billing address outside 
 #### Can I Pay by Bank Account in Canadian Dollars or Another Currency?
 
 Paying from a bank account in the portal is available in US dollars only. Accounts billed in euros have other options, such as SEPA Direct Debit and iDEAL. For anything else, contact [billing@optisigns.com](mailto:billing@optisigns.com).
+
+---
+
+## Related Articles
+
+- [Billing Details, Failed Payments \& Receipts](https://support.optisigns.com/hc/en-us/articles/360041587014?ref=related)
+- [Billing: Changing Plans or Screen Counts](https://support.optisigns.com/hc/en-us/articles/1500000493782?ref=related)
+- [Billing for Multiple Locations: Sub\-Accounts and Team Billing](https://support.optisigns.com/hc/en-us/articles/17129313173395?ref=related)
+- [Multilingual and Multi\-Currency Options](https://support.optisigns.com/hc/en-us/articles/4411762539027?ref=related)
+- [Cancel, Pause or Downgrade Your Subscription](https://support.optisigns.com/hc/en-us/articles/17639078588691?ref=related)
 
 ### That’s all!
 

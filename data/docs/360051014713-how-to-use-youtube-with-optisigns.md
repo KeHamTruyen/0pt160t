@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/360051014713-How-to-Use-YouTube-with-OptiSigns
 
-Last Updated: 2026-10-30T20:44:00Z
+Last Updated: 2026-11-25T18:07:32Z
 
 ### In this article, we'll show how to display a YouTube video or Short on your digital signs with OptiSigns.
 

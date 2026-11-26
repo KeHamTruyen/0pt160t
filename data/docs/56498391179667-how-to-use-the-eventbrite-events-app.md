@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/56498391179667-How-to-Use-the-Eventbrite-Events-App
 
-Last Updated: 2026-11-12T23:15:33Z
+Last Updated: 2026-11-25T17:02:45Z
 
 ### In this article, we'll show how to display your upcoming Eventbrite events on your digital signs with OptiSigns.
 
@@ -145,6 +145,15 @@ The **Select Asset** window will open. Search for your Eventbrite Events app, cl
 Back in **Edit Screen**, hit **Save**. Your events will now display on your screen.
 
 Your Eventbrite Events app can also be displayed in a Playlist or Schedule, or as one zone of a [Split Screen](https://support.optisigns.com/hc/en-us/articles/360026559573).
+
+---
+
+## Related Articles
+
+- [How to Display Dynamic Event Schedules Using OptiSync](https://support.optisigns.com/hc/en-us/articles/33468569218067?ref=related)
+- [How to Use the Calendar Mix app](https://support.optisigns.com/hc/en-us/articles/4408052949139?ref=related)
+- [How to Use the CountDown App](https://support.optisigns.com/hc/en-us/articles/360041638433?ref=related)
+- [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)
 
 ### That’s all!
 

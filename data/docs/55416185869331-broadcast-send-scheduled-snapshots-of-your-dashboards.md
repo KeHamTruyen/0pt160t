@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/55416185869331-Broadcast-Send-Scheduled-Snapshots-of-Your-Dashboards
 
-Last Updated: 2026-09-23T16:24:51Z
+Last Updated: 2026-11-25T17:03:09Z
 
 ### In this article, we'll set up a Broadcast that captures a snapshot of your dashboards on a schedule and delivers it by email, to Microsoft Teams, to a webhook, or as a PDF.
 
@@ -185,6 +185,16 @@ Each run sends a POST request with a JSON body like this:
 - reportId (the same value as broadcastId) and artifactUrl / artifactContentType (the first artifact) are also sent, for older integrations.
 - For a run you started with Run now, scheduledFor is sent as manual: followed by a timestamp rather than an ISO date.
 - Respond with a 2xx status. Any other response is recorded as a failed delivery in the run history, where it can be retried.
+
+---
+
+## Related Articles
+
+- [How to Get a Microsoft Teams Webhook URL for OptiSigns Broadcast](https://support.optisigns.com/hc/en-us/articles/55416186918163?ref=related)
+- [How to Display Microsoft Power BI Dashboards \& Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+- [How to Display a Snowflake Dashboard with OptiSigns](https://support.optisigns.com/hc/en-us/articles/53028011485715?ref=related)
+- [Advanced: Proof of Play (or Playback report)](https://support.optisigns.com/hc/en-us/articles/360058936513?ref=related)
+- [How to Display Datadog Dashboards on OptiSigns](https://support.optisigns.com/hc/en-us/articles/56493703696659?ref=related)
 
 ### That’s all!
 

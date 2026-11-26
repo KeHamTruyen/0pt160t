@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/52523606879251-OptiSigns-Digital-Signage-App-for-Zoom-Adding-Using-and-Removing-the-App
 
-Last Updated: 2026-06-11T22:24:43Z
+Last Updated: 2026-11-25T17:03:27Z
 
 ## About the OptiSigns–Zoom integration
 
@@ -99,3 +99,12 @@ If you need account\-level deletion or data access requests, contact [support@op
 ## Reporting a security issue
 
 Email [support@optisigns.com](mailto:support@optisigns.com) with the subject "Security" so we can prioritize handling.
+
+---
+
+## Related Articles
+
+- [Connect Zoom Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52069065128723?ref=related)
+- [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+- [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+- [Assign content to your screens](https://support.optisigns.com/hc/en-us/articles/360016375153?ref=related)

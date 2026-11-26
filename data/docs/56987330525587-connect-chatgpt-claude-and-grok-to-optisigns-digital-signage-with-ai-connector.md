@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/56987330525587-Connect-ChatGPT-Claude-and-Grok-to-OptiSigns-Digital-Signage-with-AI-Connector
 
-Last Updated: 2026-11-18T16:34:19Z
+Last Updated: 2026-11-25T17:02:43Z
 
 ### In this article, we'll turn on the OptiSigns AI Connector, add it to your AI assistant, and show what you can ask it to do.
 
@@ -159,6 +159,15 @@ Add transforge\-api.optisigns.com to Claude's allowed domains, as described abov
 #### Errors After Signing In, or the Assistant Can't Find Something
 
 Use the exact names shown in the portal. If errors continue, remove the connector from your assistant, add it again and sign in again.
+
+---
+
+## Related Articles
+
+- [AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector](https://support.optisigns.com/hc/en-us/articles/57688527779219?ref=related)
+- [Build Integrations Using the OptiSigns Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515?ref=related)
+- [How to Integrate API and Publish API Data via OptiSync](https://support.optisigns.com/hc/en-us/articles/22875592994195?ref=related)
+- [OptiDev Add\-on \- Free Trial and Pricing](https://support.optisigns.com/hc/en-us/articles/54095075680275?ref=related)
 
 ### That’s all!
 

@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/55416186918163-How-to-Get-a-Microsoft-Teams-Webhook-URL-for-OptiSigns-Broadcast
 
-Last Updated: 2026-09-15T17:33:06Z
+Last Updated: 2026-11-25T17:10:49Z
 
 ### In this article, we'll create a Microsoft Teams Workflows webhook URL and paste it into an OptiSigns Broadcast, so your scheduled snapshots post straight into a Teams channel.
 
@@ -81,6 +81,14 @@ The workflow may have been turned off or deleted, or its owner may have lost acc
 #### **No card appeared, but the run succeeded.**
 
 Check that you're looking at the channel chosen when the workflow was created, and that the workflow wasn't later edited to post somewhere else.
+
+---
+
+## Related Articles
+
+- [Broadcast: Send Scheduled Snapshots of Your Dashboards](https://support.optisigns.com/hc/en-us/articles/55416185869331?ref=related)
+- [How to Use OptiSigns with Microsoft Teams Rooms](https://support.optisigns.com/hc/en-us/articles/36911639377683?ref=related)
+- [How to Display Microsoft Teams Chat on OptiSigns](https://support.optisigns.com/hc/en-us/articles/4417940565139?ref=related)
 
 ### That’s all!
 

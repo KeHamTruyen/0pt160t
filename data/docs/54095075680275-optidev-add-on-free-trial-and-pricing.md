@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/54095075680275-OptiDev-Add-on-Free-Trial-and-Pricing
 
-Last Updated: 2026-11-18T17:12:24Z
+Last Updated: 2026-11-25T18:11:48Z
 
 ### In this article, we'll go over how the OptiDev add\-on works, its pricing structure, and Free Trial information.
 
@@ -188,6 +188,15 @@ When you cancel:
 - **Your OptiDev projects aren’t deleted.**
 
 ![](https://support.optisigns.com/hc/article_attachments/54123432761363)
+
+---
+
+## Related Articles
+
+- [AI Tools in OptiSigns: OptiBot, AI Designer, OptiDev and the AI Connector](https://support.optisigns.com/hc/en-us/articles/57688527779219?ref=related)
+- [Connect ChatGPT, Claude and Grok to OptiSigns Digital Signage with AI Connector](https://support.optisigns.com/hc/en-us/articles/56987330525587?ref=related)
+- [Host your HTML/JS or Create your own Web App with Hosted Website](https://support.optisigns.com/hc/en-us/articles/7592123111699?ref=related)
+- [Build Integrations Using the OptiSigns Enterprise App](https://support.optisigns.com/hc/en-us/articles/13320135306515?ref=related)
 
 ### That's all!
 

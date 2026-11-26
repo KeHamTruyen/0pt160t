@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/55895814798739-How-to-Display-Salesforce-Dashboards-and-Reports-on-OptiSigns
 
-Last Updated: 2026-10-16T21:20:16Z
+Last Updated: 2026-11-25T17:02:53Z
 
 ### In this article, we'll connect your Salesforce organization so its dashboards and reports display on your OptiSigns screens.
 
@@ -327,6 +327,15 @@ Reports are not affected: Salesforce runs a report fresh every time it draws one
 To load quickly, your screens use a copy stored by OptiSigns. With Salesforce image Display mode, the copy is the picture, kept in OptiSigns' cloud storage. Each app keeps its few most recent pictures, and older ones are deleted automatically. With Redraw, the copy is the chart data, kept for up to 24 hours. Your screens receive only that picture or chart data.
 
 No Salesforce credentials are stored on the device, and nothing is written back to your Salesforce org.
+
+---
+
+## Related Articles
+
+- [Inbound Webhook DataSources in Designer](https://support.optisigns.com/hc/en-us/articles/55719322614803?ref=related)
+- [How to Display Microsoft Power BI Dashboards \& Reports with OptiSigns](https://support.optisigns.com/hc/en-us/articles/360024859713?ref=related)
+- [How to Display Datadog Dashboards on OptiSigns](https://support.optisigns.com/hc/en-us/articles/56493703696659?ref=related)
+- [Broadcast: Send Scheduled Snapshots of Your Dashboards](https://support.optisigns.com/hc/en-us/articles/55416185869331?ref=related)
 
 ---
 

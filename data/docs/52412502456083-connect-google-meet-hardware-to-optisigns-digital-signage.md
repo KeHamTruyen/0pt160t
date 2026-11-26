@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/52412502456083-Connect-Google-Meet-Hardware-to-OptiSigns-Digital-Signage
 
-Last Updated: 2026-06-15T19:14:07Z
+Last Updated: 2026-11-25T17:03:29Z
 
 Turn idle Google Meet hardware into digital signage. When a room is between meetings, OptiSigns plays your assigned content — announcements, dashboards, branding, menus — right on the room display, and the device returns to the normal Meet UI the moment a meeting starts.
 
@@ -144,3 +144,12 @@ Activating signage on a Meet room uses **one screen license** from your OptiSign
 - Email: [support@optisigns.com](mailto:support@optisigns.com)
 - More guides: [support.optisigns.com](https://support.optisigns.com)
 - Related: [Connect Zoom Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52069065128723-Connect-Zoom-Rooms-to-OptiSigns-Digital-Signage) · [Connect Microsoft Teams Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/52350277262483-Connect-Microsoft-Teams-Rooms-to-OptiSigns-Digital-Signage) · [Connect Cisco Webex Rooms to OptiSigns](https://support.optisigns.com/hc/en-us/articles/51343184586643-Connect-Cisco-Webex-Rooms-to-OptiSigns-Digital-Signage)
+
+---
+
+## Related Articles
+
+- [Room Integrations: Turn Your Meeting Rooms into Digital Signage](https://support.optisigns.com/hc/en-us/articles/52113036672403?ref=related)
+- [Connect Microsoft Teams Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52350277262483?ref=related)
+- [Connect Zoom Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/52069065128723?ref=related)
+- [Connect Cisco Webex Rooms to OptiSigns Digital Signage](https://support.optisigns.com/hc/en-us/articles/51343184586643?ref=related)

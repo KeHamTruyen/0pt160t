@@ -2,7 +2,7 @@
 
 Article URL: https://support.optisigns.com/hc/en-us/articles/55669121864979-Using-the-Flight-Schedule-App
 
-Last Updated: 2026-09-22T18:59:24Z
+Last Updated: 2026-11-25T17:12:27Z
 
 ### In this article, we'll set up the Flight Schedule app so live departures or arrivals for your airport display on your OptiSigns screens.
 
@@ -192,6 +192,15 @@ Adjust **Page speed** under **Advanced**.
 #### A banner says "Connection lost".
 
 The board hasn't had an update for a while and is showing the last one it received. It reconnects by itself; if it stays up for more than a few hours, contact support.
+
+---
+
+## Related Articles
+
+- [How to use Google Traffic App](https://support.optisigns.com/hc/en-us/articles/360047499893?ref=related)
+- [Using the Japan Transit App](https://support.optisigns.com/hc/en-us/articles/55640830295187?ref=related)
+- [How to Use Weather Apps in OptiSigns](https://support.optisigns.com/hc/en-us/articles/360017964153?ref=related)
+- [How to Create and Use the Split Screen App](https://support.optisigns.com/hc/en-us/articles/360026559573?ref=related)
 
 ---
 
